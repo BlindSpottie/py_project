@@ -1,0 +1,501 @@
+track_id,artists,track_name,genre,mood,duration_category,danceability,energy,valence,tempo,loudness,acousticness,duration_ms,popularity
+4yNk9iz9WVJikRFle3XEvn,JVKE,golden hour,Pop,Sad,Medium,0.515,0.593,0.153,94.467,-4.801,0.653,209259,66
+2V4bv1fNWfTcyRJKmej6Sj,Mike Posner;Gigamesh,Cooler Than Me - Single Mix,Electronic,Neutral,Medium,0.768,0.82,0.625,129.965,-4.63,0.179,213293,76
+7GsoUeI9DtaTSjJHenyCNP,Bee Gees,Alone,Electronic,Happy,Medium,0.639,0.792,0.748,110.016,-5.084,0.091,290066,59
+6PRuDS2kZAn1o9TTLLm3PD,Omar S;Supercoolwicked,What's Good for the Goose,Electronic,Happy,Short,0.598,0.484,0.739,172.942,-9.743,0.232,147214,35
+5ZM00i27tGMbQiI7IUO7II,Laurie Z.,In the Monterey Mist,Classical,Sad,Medium,0.278,0.074,0.081,125.442,-28.827,0.988,198112,26
+2x9DZb3wGMVy6UpgyMueS4,Ash Code,Dry Your Eyes,Metal,Neutral,Medium,0.369,0.965,0.413,150.023,-6.696,0.0,189440,28
+12Nbr3tbxdEyqjcHjxNM0O,Hillsong Young & Free,To My Knees (Live),World,Sad,Long,0.503,0.315,0.184,99.073,-10.545,0.436,473293,41
+430b2oO6J44m39VBLKE2De,Vargrav,In Streams from Great Mysteries,Metal,Sad,Long,0.124,0.871,0.036,82.308,-8.292,0.0,354051,17
+0mLDkYosGsfPwuUZyUKmUe,Orquesta Mondragon,Caperucita feroz (feat. Moderatto),Latin,Neutral,Short,0.498,0.985,0.641,174.941,-4.114,0.042,171306,29
+5f4rQKuQVqkVuqlUKOCcYr,Anuel AA;KAROL G,Secreto,Latin,Happy,Medium,0.807,0.803,0.706,91.982,-4.156,0.6,258799,1
+23ZPovMSlcsbHq2aQWQMM2,Inspector,My Girl,World,Happy,Short,0.705,0.792,0.901,143.95,-3.552,0.014,172771,36
+0Ho6NsIqN6oOj2wY4xSSpp,Maggie Rogers,Light On,Pop,Neutral,Medium,0.657,0.569,0.399,102.055,-6.287,0.201,233880,1 
+4dTm5j41esyHgv2O6SsC3C,Brenda Lee,Rockin' Around the Christmas Tree - Re-Recorded Version,Rock,Happy,Short,0.682,0.641,0.824,141.003,-8.904,0.564,126146,0
+5eYAZko7TMVUh6e2GGrmJX,Glee Cast;Darren Criss,Teenage Dream (feat. Darren Criss),Electronic,Happy,Medium,0.76,0.543,0.84,120.003,-5.759,0.494,220373,46
+0PCrZCeNoMnHJE3UT28OcX,Deathstars,"Track, Crush & Prevail",Metal,Neutral,Medium,0.615,0.968,0.576,107.025,-3.672,0.001,244240,21
+7r9v0CLTunOwlbvdOFFgZo,Fujii Kaze,Tsumi No Kaori,Pop,Happy,Medium,0.517,0.861,0.842,154.963,-5.745,0.047,214200,50
+1Su3DSrGTjhBfEc1egNUk2,Dan Gibson's Solitudes,Angels of the Sea,Classical,Sad,Long,0.185,0.353,0.112,119.563,-21.993,0.615,424412,23
+4ZiFQgRfW8oD9sF65wNfNp,Romanthony;Doctor Dru,Too Long - Doctor Dru Remix,Electronic,Neutral,Long,0.748,0.814,0.499,121.997,-8.906,0.002,473920,13
+2fhL1XOocenluqP7g9yXG7,Perfume,Magic of Love - Level3-mix,World,Happy,Medium,0.546,0.968,0.937,127.996,-3.376,0.003,256640,20
+4XagF7r7V0Y7Aj5lNkseuD,Stam1na;Anna Eriksson,Gaian lapsi (feat. Anna Eriksson),Metal,Neutral,Medium,0.354,0.956,0.503,142.855,-4.028,0.0,200446,36
+7wEKVEEo4Vmn1qNvL7AZNf,Panteon Rococo,Veinticinco Rosas,Rock,Happy,Short,0.755,0.74,0.852,100.95,-3.161,0.005,173253,45
+1skWrgJrEi6ZB4Wt5tYYAb,Imagine Dragons,Follow You,Rock,Neutral,Short,0.542,0.732,0.489,124.912,-5.956,0.002,175643,2
+36dW3K50T9DcXYHIW9ZJgC,Mike Posner,Song About You,Electronic,Neutral,Medium,0.687,0.846,0.589,87.024,-3.003,0.172,190146,0
+7wzNovIu5urOjulGX4VzFo,My Chemical Romance,Boy Division,Rock,Sad,Short,0.357,0.996,0.278,183.039,-3.496,0.001,175453,63
+6aYE0zrhRRo7KmKUC04fG9,Greensky Bluegrass,Reverend,Folk,Neutral,Long,0.45,0.615,0.62,113.073,-8.158,0.26,333413,30
+4IcB2mInTQ5jFCbcsREc8q,George Frideric Handel;London Early Opera;Bridget Cunningham,"Saul, HWV 53: Dead March",Classical,Sad,Medium,0.183,0.007,0.073,134.455,-30.087,0.952,186213,0
+2iKmjZ2jgyeX1I92fv93ar,Mike Oldfield,Wonderful Land,Classical,Sad,Medium,0.283,0.458,0.094,171.345,-10.741,0.382,218266,23
+3GXwSWWDcotwPRHmkTHKFe,Dinamarca,Mi Todo,Electronic,Sad,Medium,0.752,0.72,0.202,177.994,-3.443,0.335,226593,15
+4toGhOrpjQfweDT9flB5iq,RADWIMPS,We'll Be Alright (Movie Edit),Rock,Sad,Medium,0.226,0.599,0.065,95.328,-6.847,0.326,258373,50
+3TgSPndcuzyZfqXnZno3Wt,Dario Marianelli;English Chamber Orchestra;Benjamin Wallfisch,"Georgiana - From ""Pride & Prejudice"" Soundtrack",Classical,Sad,Short,0.265,0.084,0.239,135.873,-23.47,0.99,95306,50
+63vWEUXhpgghscp9FgvCMG,Vishal Chandrashekhar;K. S. Harisankar;Sinduri Vishal,"Kannil Kannil (From ""Sita Ramam (Malayalam)"")",Pop,Happy,Medium,0.516,0.409,0.731,179.852,-11.925,0.718,232513,67
+4Jr0O3zgoKEk71sIlABkLp,A.R. Rahman;Thamarai,"Marakkuma Nenjam - From ""Vendhu Thanindhathu Kaadu""",Pop,Sad,Medium,0.662,0.394,0.326,119.938,-14.407,0.789,258319,68
+1X4JzOvZWa5IwK8C0y6mJU,DJ Quest;Odissi,Wormhole - Original Mix,Electronic,Sad,Long,0.638,0.892,0.118,138.002,-4.631,0.001,434912,14
+2MkVqeZvoyx6UkRFutiflz,Big & Rich;Bon Jovi,Born Again,Country,Neutral,Medium,0.476,0.888,0.617,162.0,-4.926,0.013,234946,0
+1GI7ANd73xnzbZrTlpT5TV,Masala Coffee;Sooraj Santhosh;Varun Sunil,Kaantha,Folk,Neutral,Medium,0.564,0.818,0.341,95.016,-5.118,0.255,294947,37
+78Q5ib2g8KHXqOeWbbUQKr,Peggy Lee,Black Coffee - Single Version,Jazz,Sad,Medium,0.523,0.194,0.171,129.533,-10.63,0.84,186693,0
+1o0xAaXY4nEaPdBGiLZdNb,Virtual Riot;Pearl Andersson,Lost It - VIP,World,Neutral,Medium,0.635,0.947,0.593,155.01,-1.919,0.023,266322,47
+6UDNooOm6jNdAzKqxdk4ce,Hank Williams;Drifting Cowboys,"Cold, Cold Heart",Country,Neutral,Short,0.577,0.17,0.513,113.293,-12.087,0.897,164306,15
+2UZZtkoLOg7IHxeTAdPFvd,Marconi Union,Weightless Part 1,Classical,Sad,Long,0.078,0.206,0.081,80.341,-20.611,0.864,486840,67
+1NPrCrNOTBUnv5YyexpzCa,Frozen Soul,Encased in Ice,Metal,Sad,Medium,0.203,0.977,0.038,138.398,-8.196,0.0,293642,25
+4eAGVhU2RE0OYfFPXmhixc,Lawineboys,Zuipen,Metal,Happy,Short,0.849,0.867,0.993,121.97,-5.832,0.158,160000,30
+7dl64CTK556NUGWhtFWLnP,Ricardo Iorio,Jugo de Tomate,Metal,Happy,Medium,0.527,0.782,0.805,126.066,-5.951,0.047,201333,36
+5Jac5r26r1HkpH9Xv5zt7A,Penny and Sparrow;Stephanie Briggs,Duet (feat. Stephanie Briggs),Folk,Sad,Medium,0.213,0.185,0.182,72.844,-10.929,0.757,221786,50
+5flnQRzZYpT7v7BvNoLsQd,Feid;Totoy El Frio,De Tanto Chimbiar,Latin,Neutral,Medium,0.821,0.602,0.628,90.035,-6.628,0.108,186066,2
+3mACbLdK3YU4H6SQjVKhN4,Dickster;Outsiders,Strange Goblin,Electronic,Neutral,Long,0.59,0.983,0.66,145.999,-6.793,0.001,489863,24
+3LbwR2WcofkDBp4LSgGJh1,Clara Mae,Loved You Once,World,Sad,Short,0.444,0.436,0.307,77.724,-5.988,0.655,148603,55
+1ho2lqhVK2P5UkLHBHjkHR,Ben Phipps;Sam DeRosa,Don't Stop Now,Electronic,Sad,Short,0.741,0.648,0.275,107.026,-6.794,0.042,149362,38
+17q6rFV6f8G4MKtUg7mWxe,Lack Of Interest,Social Inequality,Metal,Neutral,Short,0.448,0.896,0.461,86.96,-6.093,0.0,40122,14
+4LRPiXqCikLlN15c3yImP7,Harry Styles,As It Was,Pop,Happy,Short,0.52,0.731,0.662,173.93,-5.338,0.342,167303,95
+5W4cALNimK9sWuu3gFcYFE,The Chemical Brothers,The Darkness That You Fear - Edit,Electronic,Sad,Medium,0.576,0.894,0.304,128.077,-4.659,0.035,237772,36
+1Ti3nVSzjQX9JgnS5UHJiO,Marc Anthony,-Te Conozoco Bien,Latin,Neutral,Long,0.371,0.508,0.426,91.693,-14.074,0.802,374485,29
+3PzbmQMiMSp34fWZSCrd6n,Lagosta Bronzeada,Nosso Amor - Ao Vivo,Latin,Sad,Medium,0.584,0.89,0.314,103.739,-4.946,0.623,197760,38
+5XoN1GqTQ9132LE7orKN6W,Pablo,Fui Fiel,Latin,Neutral,Medium,0.67,0.561,0.488,131.957,-8.803,0.391,206093,40
+0G0kAwhSsxZHWh7Z5dg9dm,Adolescent's Orquesta,Ancianos,Latin,Happy,Medium,0.712,0.594,0.808,139.868,-5.357,0.466,201874,33
+24xs25BOSh4iqQERW3Y2nv,Doctor Flake,Hands,Hip-Hop,Neutral,Long,0.598,0.687,0.461,104.001,-12.176,0.529,426923,48
+6GVc45BRDqjvoGrMSInL5t,Lykke Li;The Magician,I Follow Rivers - The Magician Remix,Electronic,Sad,Medium,0.785,0.7,0.296,122.031,-5.81,0.018,279635,0
+42Zl1YtSgEXHHAt3Pp05UX,Henrique & Juliano,Sem Rede - Ao Vivo,Latin,Neutral,Medium,0.531,0.566,0.454,105.612,-6.736,0.656,202724,59
+1bWm3k2gzhB8DFZYwfljyH,Top Cat;Serum,Gallist - Serum Remix,Electronic,Neutral,Short,0.71,0.981,0.392,87.508,0.065,0.001,178285,21
+0Nlbz6Etm3bWe4OCYJ44hi,Wolfgang Amadeus Mozart;Danielle Laval,"12 Variations on a Minuet by J.C. Fischer in C, K.179: 13. Variation XII",Classical,Happy,Short,0.268,0.216,0.845,129.633,-20.533,0.986,79876,8
+1A4pATp8XdX3vfd6YoKuKn,The Lemonheads,Rick James Style,Pop,Neutral,Medium,0.607,0.515,0.392,106.533,-14.054,0.044,197639,21
+4PaKTUIa6TDHq280fnFCyx,Captain Jack,Centerfold,Electronic,Happy,Medium,0.702,0.916,0.85,123.011,-6.732,0.041,183720,25
+7jU7bkSuD3q3D40ogwlhgE,The Bobbettes,Mr. Lee,Jazz,Happy,Short,0.493,0.602,0.872,203.334,-9.836,0.607,135573,36
+4lvTfq817mnTPF2eibBdIP,Yuvan Shankar Raja;Kay Kay,Kadhal Valarthen,Pop,Neutral,Long,0.711,0.647,0.458,122.918,-7.44,0.484,448641,62
+3zyz5T5qFjk1oSw5RIqf9V,Ella Fitzgerald,Have Yourself a Merry Little Christmas,Jazz,Neutral,Short,0.595,0.318,0.536,112.718,-7.181,0.951,175280,0
+5NUnyAO4iDmAdlUb4D7hNi,Terno Rei,Amor-Perfeito,Latin,Neutral,Short,0.752,0.44,0.406,101.969,-8.136,0.477,166000,39
+2zGKXiqO0irUZWBL1OJFUy,Luciano Pavarotti;The Corrs,'O Surdato 'nnamorato,Classical,Neutral,Medium,0.4,0.689,0.418,122.28,-7.089,0.781,221026,19
+0IMYfyH598o7WwviiMxBV1,In Flames,The Inborn Lifeless,Metal,Sad,Medium,0.3,0.963,0.22,134.553,-7.103,0.0,202066,21
+4iMQEdNXGMVlAbqsJGhvxx,Piotr Wiese,"Waltz, Interrupted",Classical,Sad,Short,0.48,0.071,0.198,129.905,-25.184,0.995,131561,57
+4MvYmy4nmohMICJi8RpKKl,Dead by April,As A Butterfly,Metal,Neutral,Medium,0.562,0.938,0.528,107.527,-4.741,0.007,292360,40
+3fOaW3trYfiqyexH3gGuUK,Terrence Parker;Cevin Fisher,Saved Forever (C2 Mix) / The Way We Used To (Accapella) - Mixed,Electronic,Happy,Medium,0.797,0.924,0.924,123.006,-7.007,0.0,288771,6
+6kLE4Rnz6Te74Qu4hokQKt,Solomon Burke,Everybody Needs Somebody to Love,Jazz,Happy,Short,0.659,0.505,0.871,76.205,-10.453,0.187,164826,0
+6rk1UifNJO2oKMajBOdETB,Maskatesta,Solo un Minuto,World,Happy,Medium,0.712,0.751,0.886,140.033,-3.613,0.03,299253,42
+5Kw7j9uxLKMy1g4G76Q6gG,Peggy Lee,Happy Holiday,Jazz,Happy,Short,0.369,0.499,0.69,192.76,-9.301,0.829,115506,0
+6Byh2m5om63yZL35VrP0CF,Olivia Belli,Valse,Classical,Sad,Short,0.23,0.034,0.149,136.201,-29.436,0.98,142024,58
+661CMkoQelL3CStly56R5p,Fast Eddie;Mike Dunn;The Renegades,Do It Like This,Electronic,Happy,Medium,0.91,0.734,0.815,121.742,-7.962,0.005,283278,5
+2yeCrMf8koRuEWuRdo8SgX,Ashley McBryde,A Little Dive Bar in Dahlonega,Country,Neutral,Medium,0.651,0.479,0.575,145.979,-6.192,0.426,209080,0
+5DIVWgTeJ2fPIxaY9e7ZKn,Ella Fitzgerald,I've Got A Crush On You,Jazz,Sad,Medium,0.455,0.106,0.258,66.807,-14.086,0.986,196440,57
+02cQ2pZO0282lsQcjtHV8O,Static-X,Skinnyman,Soul,Happy,Medium,0.582,0.961,0.794,91.407,-5.707,0.001,220200,44
+0xMvzVeUgeT6BD0guG7zX8,Slash;Adam Levine,Gotten,Rock,Sad,Long,0.548,0.486,0.07,130.316,-8.236,0.136,302160,40
+3qtuHGT74hewSGbXGDBRlv,Felipe Vilela,De Novo / Live Session,Soul,Neutral,Medium,0.675,0.559,0.619,170.292,-9.812,0.406,209985,25
+3vMbiNwzKB3maKNef1Lw74,Porta,No Hay Truco,Latin,Happy,Long,0.499,0.811,0.964,185.609,-5.386,0.42,361029,31
+5ylLypaOksxWd75YrGtx2N,The Beatles,Eight Days A Week - Remastered 2015,Rock,Happy,Short,0.636,0.677,0.837,138.707,-5.605,0.265,163320,55
+7503mEfiZf6vgONFMYX5Jr,Sukhwinder Singh;Manikka Vinayagam,"Arjunar Villu (From ""Gilli"")",Hip-Hop,Neutral,Medium,0.766,0.909,0.51,99.958,-6.181,0.196,266309,57
+31OASoQ8HPlyFG5vw2jtQs,Jim Vancleve,Fall Creek Falls,Folk,Neutral,Medium,0.465,0.798,0.474,95.656,-4.294,0.523,264333,23
+3jJ5HgLRNydtLRghjWVaCG,Pritam;Harshdeep Kaur;Arijit Singh,Kabira (Encore),World,Happy,Medium,0.611,0.612,0.898,171.841,-7.978,0.441,270438,63
+4sigEqg7SMeZsn8haXoloU,TEEMID,Wonderwall,World,Neutral,Medium,0.7,0.705,0.521,99.97,-6.026,0.148,246169,63
+7CRMMeGw6ZCvnio00NmiZu,Ne-Yo,Merry Christmas Baby,Electronic,Sad,Short,0.682,0.551,0.251,77.993,-7.822,0.411,167950,1
+2bEj47sDxuBKf1aFPeqsT7,Alesso;Katy Perry,When I'm Gone,Electronic,Neutral,Short,0.685,0.886,0.615,125.034,-4.179,0.028,161266,0
+66Z8IxmtD0ohwTTkT7WpUM,Tronic,Malos Amigos,Rock,Happy,Short,0.565,0.94,0.831,148.009,-2.464,0.008,132001,42
+6rPLwHen7lKl7SZRrwGHCX,Phobia,Wasted Time,Metal,Sad,Short,0.296,0.995,0.071,97.319,-2.521,0.0,74240,13
+6NhX3wObuCQBfBMqjtYaOe,Level 42,It's Over - Extended Remix,Pop,Neutral,Long,0.66,0.496,0.336,126.609,-11.663,0.252,360106,26
+2B4Y9u4ERAFiMo13XPJyGP,The Beatles,"Here, There And Everywhere - Remastered 2009",Rock,Neutral,Short,0.29,0.247,0.36,165.361,-12.125,0.921,144880,64
+4P1mEI6IhsSyEMbpArFuMp,George Jones,Just A Closer Walk With Thee,Country,Neutral,Medium,0.296,0.465,0.49,205.466,-8.163,0.652,181160,26
+6Qay9KA4CFwJPN9QqyweKO,Sujatha,Pachayathilu,World,Happy,Medium,0.513,0.807,0.862,63.431,-9.538,0.38,286275,41
+1uneiO81sTTdPvsjr54yPK,Leeland,Lion and the Lamb - Studio,World,Sad,Medium,0.346,0.806,0.224,175.891,-5.828,0.02,271533,50
+7DVuGLrkpXNik5aUIiJ5Yu,Ilaiyaraaja;K. S. Chithra,Indha Maan,Pop,Neutral,Medium,0.674,0.311,0.595,93.744,-11.729,0.886,275575,48
+4NhdeAhleoj6ATVmboNtVm,Sam Smith,Have Yourself A Merry Little Christmas,Pop,Neutral,Short,0.438,0.178,0.344,75.25,-9.402,0.957,170964,0
+13GvSZgg9LOs3M9uGbWsPE,Aron Wright,You Were Supposed to Be Different,Folk,Sad,Medium,0.436,0.239,0.137,73.761,-12.83,0.861,192972,45
+1KwjyNUSNyZ02qHnyhJyyH,Suel;Turma do Pagode,Vai Dar Match - Ao Vivo,Latin,Happy,Short,0.629,0.803,0.897,86.916,-5.769,0.464,138800,54
+0nJsYcZ6gr6198qwFLbA1G,Faridkot,Raftaar Wahi Hogi,Folk,Neutral,Short,0.617,0.599,0.431,100.954,-7.705,0.758,156831,33
+7Co512n7fgroWoFIwOkcue,The Chemical Brothers,The Pills Won't Help You Now,Electronic,Neutral,Long,0.564,0.631,0.374,141.965,-6.942,0.207,394149,38
+6uWWfeZyj1UOGBjrf8fr4G,The Plot In You,Paradigm,Metal,Sad,Medium,0.62,0.977,0.307,109.998,-2.899,0.01,200800,53
+2WDjQJptGBH8ZOpXrBehBh,Yellow Claw;Angger Dimas,Kaolo Pt.2 - Angger Dimas Remix,Electronic,Neutral,Medium,0.576,0.937,0.334,100.979,-5.059,0.0,224718,30
+7tOVbC7XazkWeLVbVv2wlX,Stoto,Right Back - 2nd Edit,Soul,Sad,Long,0.855,0.555,0.3,120.065,-11.72,0.025,400213,46
+3GmjvTn3YFn6MfQXugsUWA,Boozoo Bajou;Rumer,Same Sun - Original Mix,Hip-Hop,Neutral,Long,0.661,0.25,0.384,97.029,-17.438,0.875,346640,20
+5B0XeSTJOsee83eWjtGIV9,Glee Cast,If I Die Young (Glee Cast Version),Electronic,Neutral,Medium,0.718,0.382,0.358,130.835,-7.782,0.831,221773,44
+317KO2y39CAzDjpP8djR0k,Oski,CAKE SHAKE,World,Neutral,Short,0.652,0.969,0.361,89.914,0.074,0.002,156000,48
+70kbSwG3XGJzv5vp8208kp,Celtic Thunder;Neil Byrne,She's Always A Woman,Classical,Sad,Medium,0.279,0.348,0.232,173.879,-9.989,0.325,200000,20
+3QHq6vCgBovPBQuuRGfNB0,George Jones,Love Bug,Country,Happy,Short,0.603,0.554,0.897,92.621,-12.287,0.7,167680,15
+0pmbq9vYE7bTLs14YoD7eL,Pete Bernhard,Mr. Mudd and Mr. Gold,Country,Neutral,Medium,0.703,0.541,0.569,98.864,-6.337,0.124,255320,19
+3DNRdudZ2SstnDCVKFdXxG,Ludwig van Beethoven;Paul Lewis,"Sonata No. 14 ""Moonlight"" in C-Sharp Minor"", Op. 27 No. 2: I. Adagio sostenuto",Classical,Sad,Long,0.184,0.005,0.151,170.612,-37.264,0.995,315426,69
+4enGPiZdy4neFkITvAQwIx,LYOD;The Bayton Fields,Do It For Love,Electronic,Neutral,Medium,0.623,0.609,0.434,96.019,-9.548,0.597,181593,52
+74jsrRqMoVsztcF9RFA3f5,Stevie Wonder,Someday At Christmas,Soul,Sad,Short,0.325,0.536,0.218,101.483,-6.04,0.614,169293,0
+5thMYJq6rZ452P5nhoDoqL,KALEO,My Fair Lady,Rock,Sad,Medium,0.586,0.277,0.207,118.627,-6.094,0.784,223177,0
+0SX6ObZSFQz0NcR5zdU7At,FKA twigs,killer,Rock,Happy,Short,0.401,0.619,0.757,78.763,-7.035,0.168,176876,0
+3CI0tvulxpMSMAPNCgqTMU,Lucybell,Sembrando En El Mar,Rock,Neutral,Medium,0.58,0.847,0.403,98.561,-9.639,0.001,231026,44
+5hmOX0JckMtLzyFcZxaGMw,=LOVE,Sweetest girl,World,Happy,Medium,0.662,0.888,0.734,132.014,-3.804,0.155,273266,31
+2aF6LOpgV30bsDP1omFr6L,Dorgival Dantas;Xand,Diga - Ao Vivo,Latin,Neutral,Medium,0.386,0.756,0.585,172.804,-4.861,0.679,297240,37
+1j2vghbobKKOW53qDOihrA,Black Sun Empire;State of Mind,Twisted Up,Electronic,Sad,Medium,0.614,0.985,0.153,172.122,-1.698,0.001,295171,18
+7bEqhiJ4Umi4s4QaqjLB68,Planetshakers,Joy - Live,World,Neutral,Medium,0.595,0.928,0.569,124.018,-3.539,0.0,243200,45
+3hm4axDodp2jFEDohQfXxV,Henry,It's You,Pop,Sad,Medium,0.545,0.468,0.279,76.045,-6.064,0.637,231642,68
+2XiqsYPmKLqjOigE3HmfXb,Sleeping At Last,I'll Keep You Safe,Classical,Sad,Medium,0.333,0.436,0.149,140.011,-9.735,0.876,271199,47
+6eO9LvEiMqh1CAsa6y3wXP,Armaan Malik;Amaal Mallik;Rashmi Virag,Bol Do Na Zara,Pop,Sad,Medium,0.545,0.473,0.195,130.0,-8.259,0.284,292826,63
+2dHmdgK6pmxS18uyqccMNH,Hans Zimmer;Lisa Gerrard;Gavin Greenaway;The Lyndhurst Orchestra,"Death Smiles At All Of Us - From ""Gladiator"" Soundtrack",World,Sad,Short,0.316,0.281,0.091,115.174,-20.722,0.257,149493,21
+6e9XxzJeFkGnJyIU1mwW71,Black Label Society,The Day That Heaven Had Gone Away,Soul,Sad,Long,0.3,0.512,0.224,155.728,-6.271,0.368,372633,42
+0yac0FPhLRH9i9lOng3f81,Keane,Everybody's Changing,Classical,Neutral,Medium,0.517,0.839,0.416,94.015,-3.521,0.001,215880,74
+5VmhdU1AoCTgu6vn2U2MSs,Carlos Gardel,Milonga Sentimental (Remastered 2022),Latin,Happy,Short,0.708,0.17,0.771,97.226,-14.726,0.979,179772,19
+3W63jYJAIYXqyFblNrZW7J,Daniel Pemberton,I Want to See You Happy,Rock,Sad,Short,0.689,0.719,0.209,89.06,-10.752,0.78,65185,24
+4Wls6Mo3QpCTnfa1kSEs6X,Armandinho,A Ilha - Ao Vivo,Latin,Happy,Medium,0.649,0.665,0.928,89.978,-7.912,0.221,287159,46
+1UwM3gTlnhyoyJJTEZqxPc,Roo Panes,Lullaby Love,Rock,Sad,Medium,0.507,0.224,0.307,73.675,-12.438,0.628,238653,46
+3YWDfErTI0oAVofo56nsc0,Hank Williams;Drifting Cowboys,I'm Sorry For You My Friend,Country,Neutral,Short,0.609,0.147,0.462,114.854,-14.774,0.926,163493,17
+3cDDx7zg7t5jHdXNrD9H7C,Rose Funeral,Sodomizer,Metal,Sad,Medium,0.322,0.906,0.152,110.498,-8.75,0.0,252720,21
+4ar1c2LuEYvcyRfPB8lFPC,ORM,Fra dyden,Metal,Sad,Long,0.174,0.664,0.037,127.958,-12.485,0.001,1478618,26
+3fWnInOzeN4gsGTmHS9icz,Tiken Jah Fakoly;Max Romeo,One Step Forward,World,Neutral,Medium,0.9,0.591,0.557,132.111,-5.712,0.107,211880,0
+4umiLE5Jq1dLTX5GmBCQBH,Serum;Voltage,Cricket Bat - VIP,Electronic,Happy,Medium,0.658,0.996,0.747,87.484,0.052,0.008,271542,18
+0AVKyOsOy97MW8oKRmFmWP,MHRAP,Renegado,Hip-Hop,Neutral,Short,0.642,0.804,0.493,150.109,-2.133,0.794,154343,47
+4nqii97vcECB2Vd2OLnssW,Dario Marianelli;English Chamber Orchestra;Benjamin Wallfisch,"The Living Sculptures Of Pemberley - From ""Pride & Prejudice"" Soundtrack",Classical,Sad,Medium,0.07,0.013,0.034,75.221,-28.395,0.98,181106,52
+1Elcx6HbpFFtgFWKbKaThT,Never Ending Game,Puppet,Metal,Sad,Short,0.389,0.973,0.294,93.603,-5.404,0.0,149425,29
+1A82o7j36d0Ga3WMfbfb0Y,King 810,A Conversation with God,Metal,Sad,Medium,0.488,0.933,0.28,119.906,-7.433,0.107,272813,26
+6HtPYcfatqRlEgmys4bqmM,Enrique Guzman,Agujetas De Color De Rosa - En Vivo,Rock,Happy,Short,0.669,0.848,0.789,136.021,-6.738,0.616,129520,28
+3Ma7En4uWNtzGAhXHVfmCY,The Platters,"Rudolph, The Red Nosed Reindeer",Hip-Hop,Happy,Short,0.576,0.682,0.919,145.274,-4.212,0.726,112960,0
+1ymuJ53IS6NTnXHyDk2vwd,Frei Gilson,Pescador de Homens (Ao Vivo),Latin,Sad,Long,0.546,0.589,0.303,132.973,-8.899,0.657,408049,43
+4YGX0YEh54BUdaGHyYB6FZ,Trazendo a Arca,Faz Chover - Ao Vivo,Latin,Sad,Long,0.498,0.617,0.118,133.478,-6.98,0.277,378493,46
+7HTTX1bAueqIsakTgH5len,Tale Of Us,North Star,Electronic,Sad,Long,0.801,0.718,0.221,124.008,-12.903,0.007,465323,35
+7xyX8iuETDhbaKRWXRjUcB,Ankur Tewari,"Rehne Do Na (From ""Guilty"")",Folk,Sad,Medium,0.696,0.146,0.084,145.029,-24.519,0.724,191172,34
+6VCUFf9E5stDr6AekXlrsz,Pascal Letoublon;Gabry Ponte;Leony,Friendships (Lost My Love) - Gabry Ponte Remix,Soul,Neutral,Short,0.715,0.87,0.542,125.988,-6.59,0.005,156190,0
+3BNy8c9gYaL63nL5DKHFMU,La Guardia,Cuando Brille el Sol,Latin,Happy,Medium,0.505,0.731,0.93,169.79,-11.379,0.033,224000,54
+6lEuFGrUqR9Yc6hSsHPnYP,Aerosmith,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",Rock,Sad,Medium,0.39,0.649,0.144,121.16,-5.163,0.172,299760,76
+0hd3hAqH4iDxQxEuqYkJZF,Dean Martin,"Baby, It's Cold Outside",Jazz,Neutral,Short,0.439,0.196,0.525,129.581,-16.093,0.88,143733,0
+7oMBY3VmIxqNVeZ7yneYuN,Chino & Nacho,Me Voy Enamorando,Electronic,Neutral,Medium,0.686,0.912,0.511,99.952,-3.411,0.053,235720,0
+5ukH66ZJQJ13FyZpqQrVA0,Anitta,Envolver,Soul,Neutral,Medium,0.813,0.733,0.397,91.988,-5.417,0.15,193805,0
+5dncXckT4fSDlyEL9QgzuY,Pereza,Pienso en Aquella Tarde,Latin,Neutral,Short,0.313,0.869,0.461,83.085,-4.206,0.002,172600,57
+0ychblZGKTLqi0aVDuHXqU,Makoto;Pete Simpson,Spread Love,Electronic,Sad,Long,0.51,0.896,0.325,171.745,-4.717,0.003,352868,16
+3NrMppEmrfhrz9OXaUejp7,Emmit Fenn,Control,Soul,Sad,Short,0.86,0.363,0.244,120.033,-9.306,0.178,170004,68
+3Q0mp8As7yj1sM6W1wPuiU,Cowboy Copas,Candy Kisses,Country,Neutral,Short,0.554,0.054,0.434,130.676,-19.761,0.985,163001,15
+7zQs5RxMWQBVDTW9zl9CHu,Em Beihold,Numb Little Bug - Piano Version,Folk,Happy,Short,0.583,0.268,0.846,84.697,-8.417,0.757,165320,57
+2RHJvRwlDize7tOEiHqKpH,Mr. Fingers,Full Moon,Electronic,Neutral,Long,0.796,0.55,0.643,109.985,-13.184,0.372,403365,30
+1nAqLID4ZQTgDx4mkL4Ikt,Jamie Cullum,All I Want For Christmas Is You,Pop,Neutral,Medium,0.659,0.274,0.479,127.862,-11.686,0.694,253388,1
+4OcselaNWxmd2leSIlT2Uu,Akitsa,Naufrage Contemporain,Metal,Sad,Medium,0.245,0.991,0.031,194.789,-7.851,0.0,264340,20
+59CiaVR6LZRBbsnLY17cep,Hot Buttered Rum,No Reason Why,Folk,Happy,Medium,0.543,0.787,0.807,107.134,-7.313,0.479,233327,20
+5UYYKTnYTvNqLWMJtw6O6Q,Travis Tritt,Take It Easy,Country,Happy,Medium,0.633,0.876,0.738,140.971,-5.21,0.012,213706,0
+4tOmaKbtj2GE2fzkJ8eccM,Ed Gein,A Way To Kill Old People,Metal,Neutral,Short,0.295,0.944,0.419,96.793,-3.266,0.0,113480,12
+1BFbjceoOgsreEBUHqFS1X,Maglore,Motor,Hip-Hop,Sad,Medium,0.414,0.329,0.146,120.726,-8.788,0.824,223701,39
+3xtiXNDbSKxy20I7D6vFUg,The Oh Hellos,"Soldier, Poet, King",Folk,Neutral,Short,0.347,0.758,0.484,117.959,-7.753,0.031,165673,71
+63mVzr5ebVyIhivOz2g6ZF,Kailash Kher,Mumma,Folk,Neutral,Medium,0.722,0.339,0.626,90.032,-11.72,0.741,270915,41
+6zVdlNTvo0guva6GazxbXL,The Human League,Don't You Want Me,Pop,Happy,Medium,0.744,0.686,0.894,117.483,-8.016,0.101,236920,1
+1W2eqS5HYJXHIhn7T8lWDZ,Be Svendsen,Nabia,Electronic,Sad,Long,0.879,0.778,0.199,110.003,-10.709,0.251,537164,47
+1L0EA6BegmM4KMwTHmSHux,Crystal Castles,Empathy,Metal,Neutral,Medium,0.51,0.914,0.332,109.97,-5.512,0.128,249520,54
+6WCAbJaWy9Pg8wznLCioGb,Rojin Sharafi,Boloor,World,Neutral,Medium,0.422,0.887,0.428,118.385,-6.185,0.122,284000,1
+7eNSk0grNnO7MqjLZzs6MM,Mithoon;Arijit Singh;Neeti Mohan;Karan Malhotra,Fitoor,Pop,Sad,Long,0.516,0.481,0.212,138.997,-9.234,0.819,308459,74
+7v5UuWX5bVomJtrKs7eHul,Giuseppe Verdi;Zsuzsa Csonka;Franco de Grandis;Maurizio Frusoni;Daniela Longhi;Jozsef Mukk;Sandor Pasztor;Roberto Servile;Janos Tandari;Irina Tchistjakova;Budapest Festival Chorus;Hungarian State Opera Orchestra;Will Humburg,Il trovatore: Act I: Di tale amor che dirsi,Classical,Sad,Short,0.494,0.217,0.293,136.466,-18.311,0.939,146520,22
+0jGlJFZXayPq6PzBNkVSPP,Berliner Philharmoniker;Herbert von Karajan,"Peer Gynt Suite No. 1, Op. 46: 4. In The Hall Of The Mountain King",World,Sad,Short,0.301,0.095,0.291,91.503,-15.691,0.732,130000,1
+2UJZ9VmOZBBIroB1KifAFL,Dead To Me,Don't Wanna,Pop,Neutral,Short,0.206,0.897,0.522,186.521,-6.695,0.0,156293,25
+4QJ0kF9VA2xcuErZYunvU9,Gomer Edwin Evans,"Im Wunderland, Pt. 1",Classical,Sad,Medium,0.418,0.109,0.063,140.736,-16.602,0.976,219146,21
+3HKcA3RHjWhKOKG37thGZZ,Promo,I Come Correct,Metal,Sad,Long,0.689,0.931,0.145,147.852,-4.467,0.011,353733,29
+19ODdY2U4Wqlv6t04dk54j,Najand,Preaching for the Deaf,World,Sad,Medium,0.211,0.975,0.05,131.265,1.7,0.155,192407,0
+6J6Oh5lczlN1q74WpT40I8,Lonesome River Band,Sitting On Top Of The World,Folk,Happy,Short,0.582,0.715,0.843,150.814,-9.654,0.421,119626,25
+0HM9A6FvxqBIehkyPOaBKX,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Movement, No. 4",World,Sad,Long,0.158,0.169,0.037,78.383,-19.168,0.934,629420,0
+1FE3Cf3SUdxJkFGrdYpqQT,Jack Wins;Joe Stone,Light Up My Life,Electronic,Neutral,Short,0.613,0.874,0.392,121.995,-5.912,0.017,144590,58
+2Q54qZEaQnGkdx3834TBfz,Pickin' On Series;Iron Horse,Interstate 8,Folk,Happy,Medium,0.678,0.737,0.774,129.166,-7.146,0.321,254026,36
+4rIAqwhHGfWChQvQGYwEfR,ILLENIUM;Emilie Brandt,Lost,World,Sad,Medium,0.671,0.616,0.327,135.054,-5.906,0.101,200000,56
+65PSBrWwQpadwkvO6weZel,Eve 6,Jet Pack,Rock,Happy,Medium,0.475,0.883,0.687,179.902,-5.265,0.013,213133,29
+7MtXu7mXRMdICKyTOb8CuR,Anirudh Ravichander,Baitikochi Chuste,Hip-Hop,Neutral,Medium,0.588,0.443,0.642,89.749,-6.197,0.583,206666,56
+4ChGx5RKaoZjznmMyx43Lr,Watchhouse,Lines on the Floor,Folk,Sad,Medium,0.375,0.381,0.28,65.43,-10.054,0.904,246786,24
+4krDgarmwOgZxppwJd8RkY,Stevie Wonder,What Christmas Means To Me - Single Version / Mono,Soul,Happy,Short,0.545,0.7,0.799,83.506,-6.961,0.098,148146,0
+7L1EyPOoOakTFWjIlAveRP,Jovonn;DJ Deep,Back in the Dark - Dub Mix,Electronic,Happy,Long,0.948,0.912,0.759,122.98,-11.146,0.008,332000,7
+6e5hyCF3qVFEtPm7QsRiw1,Plastilina Mosh,Magic Fever,World,Neutral,Medium,0.61,0.808,0.556,137.086,-5.957,0.095,291373,22
+4SSnFejRGlZikf02HLewEF,Billie Eilish,bury a friend,Electronic,Sad,Medium,0.905,0.389,0.196,120.046,-14.505,0.74,193143,76
+1XWCqa4qi714D7THtTk4Xk,Jass Manak,Tera Mera Viah,Hip-Hop,Neutral,Medium,0.793,0.719,0.435,83.925,-3.698,0.352,197142,61
+2ilMGd1JXL1xBXz0IgZL6J,Absu,She Cries The Quiete Lake,Metal,Neutral,Medium,0.212,0.994,0.35,89.235,-6.043,0.0,250973,17
+54PQInz7SNNdLpSHnbbSIb,Hank Williams,Dixie Cannonball,Country,Happy,Short,0.507,0.336,0.774,172.878,-12.555,0.926,142600,13
+70ztDWxwMLHje4L7QUyu5d,DubVision;Afrojack,Feels Like Home - Official Song F1 Dutch Grand Prix,Electronic,Neutral,Short,0.559,0.85,0.365,126.973,-4.173,0.008,173858,57
+4JJOLKyNrVeJhyDZt0MOSj,Jamily,Tempo de Vencer,Latin,Sad,Medium,0.455,0.405,0.149,75.971,-12.193,0.329,240373,46
+1LYMWLIvXHWehNAUUC32rO,Depth Charge,Legend of the Golden Snake - Single Version,Hip-Hop,Neutral,Medium,0.676,0.716,0.381,91.47,-10.255,0.01,266693,42
+0oP2XkRvW12u8gCxpBfVVU,Kruder & Dorfmeister,High Noon,Hip-Hop,Happy,Long,0.783,0.411,0.85,100.897,-19.591,0.097,386266,49
+67gz9FMmyPkVWJWEMVOqqU,Maggie Rogers;Del Water Gap,New Song,Pop,Sad,Long,0.65,0.28,0.103,119.939,-7.442,0.495,382613,0
+2Uyda5UuQnxkdYkECw3F8C,Lamb of God,Grayscale,Soul,Neutral,Medium,0.421,0.991,0.413,175.023,-4.76,0.001,239940,52
+0pS1COD3QAwZqVbHkqBBWZ,Jamie Miller,Here's Your Perfect,Soul,Neutral,Short,0.558,0.454,0.424,113.12,-5.335,0.499,158594,0
+0AFDe9XA8JjerFSsnsP1K8,Lauren Babic;Seraphim,Lovely,Metal,Sad,Medium,0.523,0.563,0.323,115.1,-8.398,0.235,181043,55
+2aIBBFkTSaQDu0gKPCY9El,Wolfgang Amadeus Mozart;Royal Philharmonic Orchestra;Erich Leinsdorf,"Symphony No. 7 in D, K.45: 4. (Allegro)",Classical,Happy,Short,0.46,0.167,0.734,75.19,-17.742,0.892,89200,7
+6E6SLdCDadErUAM90cAxGx,Big Pun,Still Not a Player (Remix) - Radio Version,Metal,Happy,Medium,0.9,0.574,0.881,94.071,-7.465,0.187,237706,40
+5LHnaiB8E3x95ZbYFmOUfk,Lady Gaga,Paparazzi,Electronic,Neutral,Medium,0.761,0.734,0.375,114.907,-2.871,0.129,208173,4
+68kyeHa4UBlqTkwoy9tBHV,Raghav Meattle;Hanita Bhambri;Ashish Zachariah,Woh Saat Din,Folk,Sad,Medium,0.63,0.313,0.167,149.985,-10.467,0.87,222400,41
+1cKtQSJ8pMVErEIJzTYsSe,Os Parazim,Ta na Moda,Latin,Neutral,Short,0.633,0.802,0.64,123.985,-2.882,0.603,153942,47
+4riu4aBQtqszCfyX2dbF7d,Zion & Lennox;Daddy Yankee,Yo Voy,Latin,Neutral,Medium,0.793,0.747,0.57,95.036,-4.854,0.069,231840,56
+7ahLXEQsn8588vLthwT4ud,CA7RIEL,Vibra Alta,Electronic,Neutral,Medium,0.739,0.726,0.58,89.997,-6.384,0.285,194666,42
+5iYjiYfAKTsymuIRvKo1bv,Guaco,A Plena Vista,Latin,Happy,Medium,0.78,0.856,0.888,120.108,-6.371,0.306,266906,31
+7Fv8Qp3tTSbSS2VjryUF7L,The Score,Revolution,Rock,Neutral,Medium,0.574,0.833,0.574,86.008,-6.239,0.061,231986,67
+3hOKO7R0JPTFSO8ptihIqH,Delete;Laura Borincaj,Freedom (Official Free Festival 2019 Hardstyle Anthem),Electronic,Sad,Medium,0.561,0.966,0.183,155.066,-3.137,0.016,218322,22
+0qICpHgSMTwYcUCwILfBtN,Nat King Cole,Deck The Halls,Jazz,Happy,Short,0.635,0.393,0.97,107.172,-10.889,0.652,69000,0
+5I2wbDvSI98HLVB42YO9sU,Guru Randhawa;Tulsi Kumar;Sachin-Jigar;Vee,"Lagdi Lahore Di (From ""Street Dancer 3D"")",Hip-Hop,Neutral,Medium,0.786,0.797,0.453,95.014,-4.063,0.233,215368,61
+2GDWnzRp5wsBXMBtR25dzv,Amrit Maan;Nimrat Khaira,Sira E Hou,Hip-Hop,Happy,Medium,0.745,0.549,0.788,77.892,-5.137,0.337,200769,57
+1KTX7h07fH3MtAzf5bsqHJ,Brett Eldredge,Gabrielle,Country,Neutral,Medium,0.707,0.722,0.431,98.991,-6.722,0.048,216720,0
+537kZhyZiQNU0ouuaHw9TT,"Up, Bustle & Out",Tinto Tintero,Hip-Hop,Happy,Long,0.903,0.77,0.831,119.014,-5.887,0.012,320080,18
+35wlGIuGoIWuuCuZXcBKXi,Erasure,A Little Respect - Live,Pop,Sad,Medium,0.539,0.908,0.257,114.07,-8.214,0.141,233040,24
+39So2wAM6l3XKWDf5XjiIz,Planetshakers,Come Holy Spirit,World,Sad,Long,0.437,0.638,0.159,148.0,-6.483,0.211,352453,36
+46UYJcjYixI76qsA8RBrrC,Job Kurian,Kaalam - Hope Project,World,Neutral,Medium,0.519,0.416,0.566,82.007,-8.089,0.686,228292,43
+2ygYfdx852H0kKauLKp51O,Silvanno Salles,Dona Maria,Latin,Happy,Medium,0.797,0.844,0.854,139.014,-3.855,0.725,182961,38
+7diiW6RSbOz0o1P7BWGmut,James Hype,Say Yeah,Electronic,Sad,Medium,0.731,0.988,0.155,125.993,-5.174,0.003,225218,55
+019FzsAPFX2KEh2vDnhvee,Mavado,So Bazzel,World,Happy,Medium,0.684,0.521,0.682,107.297,-5.891,0.105,191400,23
+0M8itGFqtoA1JImV29Jrw8,Alessandro Safina;Chrissie Hynde,Aria E Memoria (We'll Be Together) - English Version,Classical,Sad,Medium,0.392,0.673,0.177,77.902,-6.764,0.824,263200,19
+2nzXOLb7I78d9k0Ka2YnQw,Fluke,Philly (Jamorphous),Electronic,Happy,Long,0.589,0.902,0.824,117.781,-9.379,0.04,432173,12
+0ZNg3I2kga2XnqKp1Y9PeZ,Mithoon;Shilpa Rao,Wo Ajnabee,Pop,Happy,Long,0.82,0.795,0.779,104.988,-8.285,0.237,302710,58
+1TugHvK1YzqMBWemwShxqs,Sunil Ganguly,Ka Karoon Sajni Guitar,World,Neutral,Medium,0.452,0.396,0.437,113.544,-13.577,0.811,270759,41
+3mNFoKDPM2hzPuJeZ9ziht,Dallas Stars,The Rising,Jazz,Neutral,Medium,0.542,0.863,0.431,119.996,-5.006,0.084,220176,56
+5pDwjmDQQS8xv3FcYMjOSI,The Temptations,Let It Snow,Soul,Sad,Medium,0.452,0.457,0.286,128.518,-9.66,0.28,215480,0
+3TEF19OszRJEYFO5ecEh2y,Jo Ann Castle,Skaters Boogie,Country,Happy,Short,0.498,0.869,0.935,127.617,-7.948,0.725,112640,12
+4gMPlHHAjOQnUrhsuqHivn,BOL4,To My Youth,Pop,Neutral,Medium,0.424,0.564,0.441,173.334,-4.619,0.685,222680,68
+2dMkrhsWFVP2rHZmTEKkeh,Mat Kearney,Wanted Man,Folk,Happy,Medium,0.514,0.319,0.677,203.651,-8.978,0.805,235106,59
+38pLq8WPZAOYBHnvAgPp9u,Dimmu Borgir,Progenies of the Great Apocalypse,Metal,Sad,Long,0.11,0.939,0.097,88.58,-3.975,0.0,317800,47
+5wqqBpcLHL63lT87Jg1Nf8,Anton Ishutin,Illusion of Us,Soul,Neutral,Long,0.819,0.473,0.638,120.02,-8.356,0.016,328005,0
+4TWXRxJ03boCLPqecHxNYX,Paul Johnson;Billy Lo,Get Get Down - Billy Lo Friday Night Ruffneck Vision Remix,Electronic,Happy,Long,0.743,0.914,0.698,134.019,-6.265,0.026,346079,7
+2BzZUelqEirF3kCEjiWijv,The Cowboys,Pie in My Eye,Pop,Happy,Short,0.236,0.84,0.739,175.888,-2.11,0.126,92957,21
+0NJS8GNxiAQoYsoMq8mABh,Asef Akbari;Nima Alizade,Slow Laugh (feat. Nima Alizade),World,Sad,Medium,0.329,0.187,0.045,71.582,-17.16,0.95,265888,0
+0WP2SQI2kVgHM7FHPQ97Fo,Lasse Stefanz,Cheerio,World,Happy,Medium,0.657,0.823,0.742,134.075,-6.884,0.048,230160,37
+4qrzgVfjMTVFUcPZRcuyYc,1200 Micrograms,Shiva's India - Outsiders Remix,Electronic,Sad,Long,0.518,0.931,0.219,145.0,-6.442,0.001,489931,32
+10MaP5YHR8014q2wq6SHlW,Alinka,Sunday Morning,Electronic,Sad,Long,0.735,0.729,0.284,126.013,-10.908,0.0,351085,13
+6ZqWXWIh6yy2tfJwX0xnO3,J. Worra,Love Boy,Soul,Happy,Short,0.789,0.793,0.78,123.972,-7.868,0.025,156895,43
+59tolr22QPXGEfykN5Y3lD,Caroline Dare,Heart Problem,Folk,Neutral,Short,0.648,0.598,0.431,76.025,-6.751,0.154,167507,44
+29Z9qeRYrOCo0bNX2Oyxj8,Osvaldo Pugliese,Antiguo Reloj De Cobre,Latin,Neutral,Short,0.563,0.233,0.536,118.558,-10.207,0.938,152866,16
+3LP4QpKptfe2yEC7oG5iNa,Yuvan Shankar Raja;Sid Sriram,"Ennai Vittu (From ""Love Today"")",Pop,Sad,Medium,0.602,0.388,0.3,140.006,-12.098,0.334,244669,52
+19rR5bpBnKE8jQvJOTvPla,A R I Z O N A,Nostalgic,Pop,Sad,Medium,0.691,0.539,0.328,99.974,-9.952,0.246,182667,0
+6uLIzpAcp0qCyeEREsiRBl,Outta Pocket,Intro,Metal,Happy,Short,0.339,0.894,0.679,131.042,-5.938,0.001,59441,29
+5arxLUQAWup1Gnix2hBLoQ,Narcosis,Yo No Quiero,Metal,Neutral,Short,0.413,0.883,0.361,89.768,-7.381,0.26,143859,13
+2xpnonWGXlJezE4Io34Od1,Ruku Suna,Chap Karati,Latin,Happy,Medium,0.618,0.873,0.85,83.249,-4.937,0.03,257279,37
+2JKlFVc1TH10KC7DVB1Okz,Gersson Edinbaro,Aradhana Yeshu Tujhe,World,Neutral,Long,0.602,0.695,0.548,139.938,-6.878,0.028,406285,24
+5Cf1ZjqNuF9kEnIk4gVlgy,Victor Ruiz,Jurema,Electronic,Neutral,Medium,0.725,0.912,0.508,130.005,-8.479,0.002,282464,38
+51jloR6rJcBkT1f8n3paRW,Elton John,Hello Hello,Classical,Neutral,Medium,0.576,0.597,0.414,83.052,-7.256,0.523,224826,55
+57DvS05QXPhreHY6cpQNiI,Becky Hill;David Guetta,Remember,Electronic,Neutral,Short,0.626,0.864,0.555,123.833,-3.12,0.068,161386,0
+3nqQXoyQOWXiESFLlDF1hG,Sam Smith;Kim Petras,Unholy (feat. Kim Petras),Electronic,Sad,Short,0.714,0.472,0.238,131.121,-7.375,0.013,156943,100
+6LthTIsTKEjhZ6nq1UFKhU,Bladerunner,War Dub,Electronic,Sad,Long,0.314,0.905,0.24,174.971,-0.877,0.0,313932,16
+36KsC1EYiD6qQJ6ShBLwPW,The Lil Smokies,Wheel on the Water,Folk,Sad,Medium,0.456,0.578,0.258,163.169,-7.65,0.443,204211,24
+3I9tSAQMVzAuX8QQUBG9rP,Ernest Tubb;Loretta Lynn,Let's Stop Right Where We Are,Country,Neutral,Short,0.667,0.433,0.629,123.454,-8.156,0.711,156333,14
+0diSnstejl46AiNC2ISoeW,Emmure,You Asked for It,Metal,Sad,Short,0.512,0.778,0.037,103.103,-7.925,0.0,92266,56
+1pTw2cNrp9L3esxLAvWnN2,Journey,Separate Ways (Worlds Apart),Rock,Neutral,Long,0.467,0.943,0.453,131.536,-5.626,0.019,323666,62
+2NxBITuVHlGNPQlzFmbjOm,Donbor,Grey Sky,Electronic,Sad,Medium,0.598,0.859,0.185,114.952,-6.6,0.011,254608,38
+3VCgYMoLf09TOFrZZxRaLU,Modeselektor;Thom Yorke,Shipwreck,Electronic,Neutral,Long,0.629,0.709,0.443,156.038,-12.17,0.022,372840,45
+0bkW98npv8EsWQ2fXFzK56,Hozier,From Eden,Folk,Sad,Medium,0.395,0.676,0.315,142.929,-5.46,0.608,283466,63
+3HLuhYkaJeobs5LigrI6Ox,Jacob's Piano,"First Step (From ""Interstellar"")",Classical,Sad,Medium,0.416,0.069,0.04,114.44,-17.079,0.88,285000,32
+1gUoaZkPi7vMZdxMlGsGOw,Michael W. Smith,You Are Holy (Prince Of Peace),World,Sad,Long,0.501,0.756,0.293,104.035,-6.208,0.012,320026,50
+5FM2QNQNHT3mKrjMZdJ8Xb,Alejandro Sanz,La Despedida,Latin,Sad,Medium,0.701,0.589,0.229,99.989,-8.463,0.016,236560,55
+5QkUh3JKMlKETQEdz4RjAs,Samuca e a Selva,Chama Arteira,World,Neutral,Medium,0.694,0.731,0.62,125.769,-5.111,0.086,262000,19
+0cE68B5sCz9f3snJ5ueTGZ,Burna Boy;J Hus,Cloak & Dagger (feat. J Hus),World,Neutral,Medium,0.62,0.601,0.46,103.748,-6.635,0.154,211050,66
+2ChOMSamIbDfZ4lA9yAiRA,BEAUZ;Dallas,Outerspace,Electronic,Neutral,Short,0.586,0.861,0.478,142.16,-3.089,0.01,174084,63
+0d64ZVyTAex5f4zPw6zKj5,Ice Nine Kills,"Your Number's Up - Live in Worcester, MA / November 2019",Metal,Sad,Medium,0.254,0.957,0.138,157.886,-5.473,0.009,239760,27
+02YAbVNakOle4LWElPxcc5,Marc Anthony,Si He De Morir,Latin,Happy,Medium,0.688,0.648,0.884,151.935,-9.337,0.24,256666,29
+2QDnIFKbJZOK3LK2KqykM4,The Chemical Brothers,Out Of Control - Radio Edit,Electronic,Neutral,Medium,0.528,0.943,0.337,131.99,-3.594,0.002,238306,12
+6H1hnJRQOGQ9djPL3jNu9G,G. V. Prakash;Shakthisree Gopalan,Imaye Imaye,Pop,Neutral,Medium,0.504,0.364,0.365,149.819,-9.277,0.893,208440,64
+0f3ywn57dtUp4SxV30YkmN,Goldie;James Davidson;Subjective;Natalie Duncan,American Gods (feat. Natalie Duncan),Electronic,Sad,Medium,0.663,0.773,0.103,120.0,-5.441,0.033,272528,19
+0oN921mKYPOVYhKceZofrs,Abel Korzeniowski,Ghost Waltz,Classical,Sad,Short,0.148,0.25,0.162,171.567,-15.961,0.906,170893,51
+11hQpTbTymxIZzSmabCd9b,Max Brhon,Redemption,Electronic,Sad,Medium,0.49,0.741,0.079,105.057,-6.601,0.001,245529,44
+3Ev1a7OygyuteJpPBctAaT,Sky Ferreira,"Night Time, My Time",Pop,Neutral,Medium,0.424,0.646,0.422,110.052,-9.433,0.28,219746,45
+6erLR7fT1n7CX2TdIqNYQ6,Kelly Chen,Lover's Concerto,Pop,Neutral,Medium,0.416,0.099,0.333,202.88,-19.388,0.978,183906,44
+4crtD2lwAh4nR6MQYWoOMd,T-Bone Walker,T-Bone Blues,Jazz,Neutral,Medium,0.541,0.283,0.564,76.832,-13.66,0.804,228626,0
+3uRPZy0nl1REaAtXUvtYQg,Joe Smooth,He's All I Need,Electronic,Neutral,Medium,0.612,0.739,0.419,127.98,-3.698,0.012,241812,6
+6egkvLCcA2onpiYgat3cB6,Nat King Cole,L-O-V-E,Jazz,Happy,Short,0.425,0.373,0.663,78.231,-7.543,0.686,155306,0
+57kHGfhabS1KDPd1860BlF,Michael Ball;Imelda Staunton,Epiphany,Classical,Neutral,Medium,0.469,0.728,0.443,111.145,-8.149,0.491,217293,21
+45DuBoFFZQFmSc1I4ZbirR,Sean Paul;Dua Lipa,No Lie,Electronic,Neutral,Medium,0.742,0.883,0.464,102.044,-2.862,0.047,221176,0
+7aIiDOQyCBA8yi1dozGojm,TJR,Ode To Oi,Rock,Sad,Medium,0.923,0.842,0.183,127.98,-2.37,0.0,271875,52
+7nMhRQY2qk6TBfhb64UopK,Dom Dolla;Mansionair;Tinlicker,Strangers (with Mansionair) - Tinlicker Remix,Electronic,Sad,Long,0.588,0.975,0.025,123.99,-6.131,0.009,329349,51
+52uFgnp0L3nPcNWAVqX75H,Pigface,Nutopia,Metal,Neutral,Medium,0.615,0.673,0.382,84.933,-12.366,0.001,290573,22
+2iqKaJs3BlTrBDAmOn0LtR,Alphaxone,Out of Source,World,Sad,Long,0.262,0.158,0.033,107.854,-25.514,0.279,416575,7
+24M6MHeugm1sHHNzCP5eV4,Suy Galvez,Baby Now That I Found You,Folk,Neutral,Medium,0.707,0.531,0.49,107.994,-7.21,0.855,244813,30
+07fynzlBq7ltsOYSx6cC3A,Ludovico Einaudi,Time Lapse,Classical,Sad,Long,0.593,0.138,0.172,125.039,-25.831,0.963,331400,55
+1ndsiN20NoDjZka7Uiij2b,Kenny Rogers,I'll Be Home for Christmas,Country,Sad,Short,0.437,0.229,0.127,61.786,-10.99,0.729,164906,0
+3oN8FtgSrFmdTn4YgBY58e,The Cramps,I Was A Teenage Werewolf - Remastered,Jazz,Neutral,Medium,0.412,0.601,0.49,114.543,-10.493,0.001,183866,1
+67jJ6CfQYdQi8tyr1Ah907,Ray Price,Take Me As I Am Or Let Me Go,Country,Neutral,Short,0.526,0.273,0.487,65.3,-11.811,0.406,174946,13
+4YsRwnLY33wmIoBHtQ0GsC,Akcent,King Of Disco,Electronic,Happy,Medium,0.695,0.971,0.918,128.008,-2.925,0.05,223240,33
+5HphhcOuLFWBj9IghbrKJB,Pink Sweat$;6LACK,Midnight River (feat. 6LACK),Soul,Sad,Medium,0.497,0.351,0.234,171.719,-9.048,0.777,184242,59
+2eEW5oUP1iIWhC9fKGrmtH,Kacey Musgraves;Zooey Deschanel,Mele Kalikimaka - From The Kacey Musgraves Christmas Show,Country,Happy,Medium,0.78,0.5,0.717,109.912,-9.785,0.571,183943,0
+4THV8iU0E5bW9uPLjDVWSC,Los Amigos Invisibles,Llegaste Tarde,World,Happy,Long,0.49,0.82,0.854,102.572,-7.138,0.799,416040,26
+2ON6cCZbi7momz4JLx2jTN,Sub Focus,Siren,Electronic,Sad,Medium,0.486,0.986,0.241,173.983,0.92,0.118,256000,56
+0TdWVbcerMAcvljXrl9gpG,BTS,Stay,Pop,Neutral,Medium,0.582,0.693,0.341,125.904,-5.048,0.114,204800,67
+0SG1geVQGs0GTbeUCd93U3,Malon,Recordar para No Olvidar,Metal,Sad,Medium,0.348,0.967,0.328,185.97,-4.428,0.0,195306,20
+15tXksgOQI7Tv6LtlqPvvr,Coheed and Cambria,Key Entity Extraction IV: Evagria the Faithful,Rock,Happy,Long,0.661,0.911,0.67,113.001,-5.808,0.03,382706,35
+54yLLvpezvPO1lA3GspiZj,Dio,Holy Diver,Rock,Sad,Long,0.473,0.783,0.124,91.976,-10.671,0.012,340640,67
+7Em4cXio4ApadtS5q5r6kz,Insult,The Truth,Metal,Sad,Short,0.295,0.97,0.137,134.403,-6.981,0.001,66133,12
+3HFjh7QljnUCBLsoTwMuTj,KK,Kya Mujhe Pyar Hai,Pop,Happy,Medium,0.644,0.818,0.789,118.477,-5.924,0.431,266653,64
+5KsKRVuyqD7AvNdpZf0T9g,Anaal Nathrakh,Punish Them,Metal,Sad,Medium,0.193,0.696,0.074,170.061,-4.937,0.0,217773,21
+5spVHQI0nN32KgtZ5J1qnI,dvsn,If I Get Caught,Soul,Happy,Medium,0.77,0.512,0.848,148.971,-4.839,0.157,186114,0
+1Ty11iX5DIhZRRD9zCHP3l,Adele,Melt My Heart To Stone,Rock,Sad,Medium,0.353,0.388,0.19,80.67,-7.091,0.346,203906,52
+6wO0vMRAJB0r1lEWBJZNOq,Nickelback,Something in Your Mouth,Rock,Happy,Medium,0.663,0.977,0.746,129.975,-3.024,0.001,219253,64
+4NaQ1znNkwnNobM0r6Zplv,Miasmatic Necrosis,Embryonic Cranial Pulp,Metal,Sad,Short,0.192,0.989,0.156,105.581,-5.009,0.0,47904,16
+3VTQ6Fl09GsFonGJiukMTE,Carlos Gardel,La Cumparsita,Latin,Happy,Short,0.687,0.46,0.799,137.994,-6.536,0.985,132600,16
+4C81bkQ2tkMmYk4bGFCrv5,Armaan Malik;TRI.BE;Lost Stories,Memu Aagamu,Pop,Happy,Short,0.76,0.772,0.683,106.02,-4.08,0.046,167547,59
+4ndXgT3jUzWqviQnHsfUL8,Ricardo Iorio,Blues del Atardecer,Metal,Neutral,Medium,0.369,0.52,0.562,145.664,-5.437,0.093,198840,30
+0RtGgZdPIyAPdKI5sCNgB0,Lordi,Zombimbo,Metal,Happy,Medium,0.616,0.842,0.818,127.979,-4.69,0.041,293920,22
+6ENifBjrslwLx69tQFzHvj,Karen Wolfe,Sothern Soul Party Mood,Jazz,Happy,Medium,0.975,0.387,0.907,109.009,-3.691,0.031,250573,32
+7pqcbFqXzHvsig9mog9cr5,Elis Regina,Carinhoso,Jazz,Neutral,Medium,0.464,0.312,0.435,90.939,-11.254,0.798,237266,38
+3GfZlPyhn9NkkftKf2vCSm,Hillsong Worship;Benjamin William Hastings,Crowns,World,Sad,Medium,0.388,0.561,0.18,139.777,-7.374,0.009,297640,41
+2mIrfke7vosXAEWfz6ucyo,The Cure,Lovesong - Remastered,Rock,Happy,Medium,0.611,0.791,0.856,140.12,-7.7,0.326,208266,67
+1dOwXxab1GKMy95Hc2MacQ,Najim Arshad,Neeyente Kalithozhiyay,World,Neutral,Long,0.588,0.407,0.51,79.8,-9.581,0.502,313500,28
+1L9lVBNz63TWO3mNxbiIa5,Lana Del Rey,Summertime Sadness,Pop,Sad,Medium,0.559,0.674,0.197,111.976,-6.125,0.031,263973,0
+673Cv1wGcW2G6dYqmkzzTa,Edvard Grieg;Una Bourne,"Lyric Pieces III, Op. 43 (Excerpts): No. 1, Sommerfugl",Classical,Neutral,Short,0.29,0.219,0.635,139.681,-22.958,0.96,75693,0
+3gE4eQH3K83Sght0ZLvuBK,Bad Bunny;Drake,MIA,Latin,Sad,Medium,0.816,0.538,0.156,97.054,-6.354,0.014,210367,65
+5x2rkqWGCMB9R6vJE8iW4P,Front 242,Headhunter V3.0,Metal,Happy,Medium,0.797,0.952,0.824,122.977,-8.461,0.005,285333,28
+0wKPXlJicZKzC7HgZbi8a4,Helker,Volar,Metal,Sad,Medium,0.548,0.658,0.267,125.073,-3.612,0.016,239320,22
+7815vygbItI6iQg8DTkofq,Omar S;Simon Black,I'll Do It Again,Electronic,Happy,Long,0.94,0.894,0.675,124.024,-3.0,0.42,301926,7
+4aWE5S8LTbTBeR1o44ozLu,We The Kings;Demi Lovato,We'll Be a Dream (feat. Demi Lovato),Classical,Sad,Medium,0.434,0.702,0.15,159.94,-4.681,0.003,233066,23
+21J0nl589YArJoYUc2brCM,ILLENIUM;Skylar Grey,From the Ashes,World,Sad,Medium,0.404,0.789,0.159,154.858,-4.516,0.024,253983,0
+4x0syYhWwD6zafzXsQXa1t,KISS,Heaven's On Fire,Rock,Happy,Medium,0.627,0.909,0.697,124.313,-4.731,0.001,200933,1
+2yWcz7NaIokOhDuB4PF612,Riff,Mucho por Hacer,Metal,Happy,Long,0.518,0.628,0.689,133.383,-15.259,0.267,305600,22
+2nZPGoeQdSZ5cJLmeskUKY,The Steeldrivers,Jesus Come For Me,Folk,Neutral,Medium,0.301,0.495,0.423,183.986,-6.902,0.803,212133,29
+7tY42hE5hltPOTgtvASyOM,Dean Martin,Luna Mezzo Mare - 2001 Remastered,Jazz,Happy,Short,0.717,0.283,0.935,120.794,-8.335,0.798,128226,0
+1RP57IhDU2nBu8x2mjqFQi,Netsky;Stargate;KYLE,"Big Hearts (feat. Stargate, KYLE)",Electronic,Sad,Medium,0.766,0.705,0.154,112.02,-5.01,0.066,201426,35
+4r9jkMEnArtWGH2rL2FZl0,Bad Bunny,A Tu Merced,Latin,Happy,Short,0.86,0.791,0.887,92.023,-4.784,0.169,175918,83
+2trEgoZgPLKyaek0vg9Gfb,Horror Section,They're Inside,Pop,Happy,Short,0.297,0.92,0.714,199.998,-5.291,0.0,145541,21
+4ezYlG6aLhst4OvmJ16JPu,Purples,reinas,Soul,Sad,Long,0.469,0.561,0.192,143.976,-6.977,0.43,358813,32
+7bSvHPn8XUAtST80o2GrAd,Anibal Troilo y su orquesta;Alberto Marino,Mi Tango Triste,Latin,Neutral,Medium,0.469,0.206,0.579,177.934,-5.587,0.912,203493,18
+2JTwsv89lQ7uY7NsUQVqE0,George Jones,Love's Gonna Live Here,Country,Happy,Short,0.657,0.625,0.867,107.111,-8.94,0.628,135026,13
+7eXnk4gMBY0fImO8lETsrC,A-Lusion,Hold Up & Come On,Electronic,Sad,Medium,0.467,0.998,0.156,150.011,-2.524,0.067,204760,20
+6IRxsf4hUTLzVeXb8PhiGs,Torby Brand,Again,Classical,Sad,Short,0.617,0.26,0.104,94.023,-14.363,0.986,153670,39
+0gplL1WMoJ6iYaPgMCL0gX,Adele,Easy On Me,Rock,Sad,Medium,0.604,0.366,0.13,141.981,-7.519,0.578,224694,85
+0E7U13bmvEccq4CtC3q0Pw,TWOPILOTS,Me & U,World,Neutral,Short,0.781,0.849,0.495,118.012,-4.855,0.012,174512,64
+1J5uOKjbRbydeyB8jEBW65,Future Funk Squad feat. Mojo;Future Funk Squad;Mojo,Rat Race,Electronic,Neutral,Medium,0.649,0.921,0.627,127.004,-6.004,0.035,200501,21
+0mNxF7U8rVvnTQMxy7FNNZ,Quantic;Nidia Gongora,Un Canto a Mi Tierra - Version,Hip-Hop,Neutral,Long,0.676,0.741,0.551,118.069,-9.847,0.005,335760,18
+1AzNN19lPYC68iacrbWL8X,Darbuka Siva;Sid Sriram,"Mudhal Nee Mudivum Nee Title Track (From ""Mudhal Nee Mudivum Nee"")",Pop,Neutral,Long,0.556,0.521,0.355,127.956,-10.811,0.632,332702,68
+4CglFxZhBqgr8nUMDjxalT,The Black Dahlia Murder,That Cannot Die Which Eternally Is Dead,Metal,Sad,Medium,0.412,0.994,0.044,92.999,-3.362,0.0,269438,26
+0WUo5DnZJLrCuCwVT0T2gH,VICKY SINGH,Uden Jab Jab Zulfen Teri,World,Happy,Short,0.887,0.291,0.75,123.962,-11.574,0.885,172778,47
+0WgPgM5hEWowvqvLccF1uw,Blue Stahli;Danny Cocke;Inversion,Black Terminal (Upgrade),Metal,Happy,Medium,0.53,0.938,0.703,160.041,-6.424,0.0,210013,49
+78v8ad1iLTlfLbam4qvzNu,Vicetone;Daisy Guttridge,Waiting,Electronic,Sad,Medium,0.651,0.7,0.214,104.964,-4.264,0.352,205714,63
+0LfJkvPNCNEMLpZJgDQiV1,Elvis Presley,The Wonder of You,Rock,Neutral,Short,0.448,0.691,0.633,88.836,-6.957,0.286,153200,64
+2tRKhBkvGfXFlptucoIgS8,OnDaMiKe,Love Tonight - B Side Mix,Electronic,Neutral,Medium,0.801,0.852,0.415,129.996,-5.779,0.001,240000,12
+7guzWL6scF2bIRud4Mfk9Y,Laetitia Dostie,Tu as disparu,Classical,Neutral,Short,0.362,0.107,0.363,87.942,-22.77,0.994,115915,65
+0VNzEY1G4GLqcNx5qaaTl6,Don McLean,Vincent,Folk,Neutral,Medium,0.419,0.085,0.458,91.509,-19.387,0.908,243493,69
+3qbSubaQIBgUM13S7kzWOd,Alka Yagnik;Udit Narayan,Kisi Din Banoongi Main,Pop,Happy,Long,0.515,0.704,0.898,89.052,-9.627,0.747,438040,45
+2chvqs8Alabnsxn56F52Lv,La Sonora Dinamita;Playa Limbo,Que Nadie Sepa Mi Sufrir,Latin,Happy,Medium,0.779,0.756,0.696,105.047,-5.123,0.323,245960,29
+0qt5f5EL92o8Snzopsv0en,Sheppard,Geronimo,Folk,Neutral,Medium,0.705,0.78,0.457,142.028,-6.267,0.456,218227,70
+2pgAa9UFMhUd5jnd6wUYgj,Seiko Oomori;Kazunobu Mineta,Re: Re: Love,World,Neutral,Long,0.428,0.988,0.627,131.983,0.945,0.018,311146,25
+6lwfxifb43h3svVBGNWKMb,Pascal Letoublon;Leony,Friendships (Lost My Love),Soul,Neutral,Medium,0.787,0.828,0.544,119.953,-3.579,0.106,182700,0
+5xOumQd5RhbKhXSWOgj7zC,Jason & The Scorchers,"Take Me Home, Country Roads",Pop,Sad,Medium,0.305,0.901,0.173,137.405,-10.521,0.003,192826,25
+5DEmBsouGyKFcoDbTrPMEZ,Ghost,Dance Macabre,Rock,Happy,Medium,0.619,0.696,0.727,125.984,-6.263,0.0,219720,0
+2bxSVNtu9kuDnPvR6PTqTt,Toninho Geraes,Oxossi,Latin,Neutral,Medium,0.681,0.527,0.643,101.865,-9.506,0.816,234560,39
+5bz7w9uBpH6YKuADn8fIEq,Eliminate;Leah Culver,Crystallize,World,Sad,Medium,0.73,0.655,0.316,149.999,-2.737,0.165,212800,46
+0vJYFKg9z1IvZiQUyX19cD,Black Sabbath,Iron Man (2012 - Remaster),Rock,Neutral,Long,0.336,0.796,0.417,155.28,-10.845,0.004,353613,23
+3Zof6WjlAty4A5acecEeLP,Omar S,Romancing the Stone,Electronic,Happy,Long,0.819,0.606,0.957,120.997,-9.579,0.016,369977,20
+1mj8Bd8pX0HYjBVaCmfi5H,Slank,Kamu Harus Pulang,Jazz,Happy,Long,0.693,0.548,0.663,105.187,-10.612,0.387,300538,35
+3PY691uPzp970VQl9NII7I,Pondora;Gonzi,Galeira,Electronic,Neutral,Long,0.563,0.874,0.351,140.004,-4.334,0.006,408214,34
+0bvt5MK16LmsCqDhVegw3f,Kenny Rogers;Kim Carnes,Don't Fall In Love With A Dreamer,Country,Sad,Medium,0.528,0.391,0.201,80.31,-9.39,0.033,220400,0
+6cnF63Qm1qAJ0sHKvM5BOg,Elton John;Charlie Puth,After All,Classical,Sad,Medium,0.501,0.556,0.165,82.017,-5.628,0.361,208714,58
+3jrToiaGyx4o553AfgoofP,A.M.C,Brazil,Electronic,Neutral,Medium,0.715,0.989,0.401,173.99,0.176,0.016,226206,50
+3OJG7Q6YeJJogzBv7uLAAk,DJ Snake;Justin Bieber,Let Me Love You,Electronic,Sad,Medium,0.475,0.715,0.159,199.892,-5.371,0.086,205946,0
+6FMonOQySdWYdgNshk6zSs,The Wailin' Jennys,Something to Hold Onto,Folk,Sad,Medium,0.283,0.317,0.302,178.097,-13.02,0.523,222266,25
+5p3JunprHCxClJjOmcLV8G,Lou Reed,Walk On the Wild Side,Rock,Neutral,Medium,0.575,0.318,0.385,104.522,-16.729,0.683,254173,73
+5074Vt992hKDNhwXMhRceJ,Silent Circle,Touch in the Night - Radio Version,Electronic,Happy,Medium,0.707,0.731,0.924,123.088,-7.592,0.114,217669,53
+7IWZoME9i2MhV4YHdPG9Wo,Najand,Under the Ferris-Wheel,World,Sad,Short,0.281,0.787,0.192,137.785,-3.655,0.546,61240,0
+4sLrEAfwvFAkaL1kwHmvPC,Free Refills,Malfunction,Electronic,Happy,Short,0.384,0.955,0.888,187.112,1.795,0.003,116804,15
+5eFiEFtrq5dLgVHSZANUNl,Rick Astley,Together Forever,Electronic,Happy,Medium,0.702,0.933,0.896,115.114,-11.876,0.052,205533,68
+0a7BloCiNzLDD9qSQHh5m7,Fall Out Boy,"Dance, Dance",Rock,Neutral,Medium,0.622,0.961,0.449,114.452,-3.198,0.005,180266,77
+4WyABmk02sDxQrDZfgHu08,Chez Damier;Ron Trent;M.D,B1PRES107 - Original Mix,Electronic,Sad,Long,0.805,0.742,0.254,124.028,-9.635,0.002,352201,9
+3KoIvxup4giBRqT2DCq34L,Toxic Holocaust,Aftermath,Metal,Sad,Medium,0.242,0.989,0.195,169.955,-4.362,0.0,185596,19
+2dz5fCXiNZk4W5Qptpmfgm,Craig Armstrong,Glasgow Love Theme,Rock,Sad,Short,0.312,0.122,0.04,78.664,-15.618,0.985,125186,52
+3OjUTDXJC6GyUtfSQnUKBa,Chino Laborde;Solo Tango Orquesta,Mi Dolor,Latin,Happy,Short,0.609,0.574,0.818,142.416,-6.309,0.755,168000,18
+2LGdO5MtFdyphi2EihANZG,Arctic Monkeys,Knee Socks,Rock,Neutral,Medium,0.665,0.542,0.587,97.975,-8.323,0.123,257563,76
+1PC5GV3OaoXx5em8ttQOMI,J.J. Cale,After Midnight,Jazz,Neutral,Short,0.694,0.306,0.521,95.989,-19.315,0.171,143693,66
+02yEhcqA7tqfca3gwPxXdF,Nacho;Wisin;Noriel,No Te Vas - Remix,Latin,Happy,Medium,0.812,0.764,0.803,93.995,-5.447,0.065,227226,0
+3nhWAoUvuEkj1wjZyEXd3R,James Brown,Signs Of Christmas,Soul,Neutral,Medium,0.784,0.458,0.555,115.389,-6.973,0.483,276786,0
+2m49DOqdk0n4ofCEovrydG,Bobo Shashi,Ye Mantramo,Hip-Hop,Neutral,Short,0.764,0.652,0.417,89.99,-6.448,0.103,167889,56
+5OjwSAytQrTrX6lMWkEA3F,Celtic Thunder,A Place In The Choir,Classical,Happy,Short,0.458,0.636,0.931,201.832,-8.085,0.685,163853,24
+1hJrWWK74fKL7eeV3CFOvF,The Rolling Stones,Sweet Virginia,Rock,Neutral,Medium,0.477,0.74,0.56,107.384,-5.397,0.502,266560,57
+5tQs6lsPw4E6Ids6b8W5uZ,Taproot,Art,Metal,Sad,Medium,0.582,0.804,0.266,120.225,-4.905,0.001,281400,23
+1U3DPXv1qHEz7xgtMry6aN,Samuel Mariano,Depois do Culto,Soul,Neutral,Long,0.661,0.656,0.379,132.89,-5.123,0.521,363173,40
+2SpEHTbUuebeLkgs9QB7Ue,Dolly Parton,Jolene,Country,Happy,Short,0.674,0.537,0.809,110.578,-10.971,0.566,161533,73
+3brpA4wjNrlW1xwqmfm72E,Kaivon,I Know,Electronic,Sad,Medium,0.419,0.725,0.127,74.983,-5.901,0.05,224000,48
+31aVGAyU43vQYxYyCmfaQI,Bush,Slow Me,Rock,Neutral,Medium,0.469,0.911,0.424,132.066,-3.136,0.001,228119,13
+5laV5KelLIfYTnD4EdVJiS,Purples,Tudo Entrego a Ti,Soul,Happy,Medium,0.679,0.718,0.691,96.485,-3.261,0.432,286464,28
+5UJ3sL9DzmckpXNucZes1p,Trazendo a Arca,Te Adoro Senhor - Ao Vivo,Soul,Neutral,Medium,0.502,0.899,0.584,119.634,-4.066,0.492,256066,28
+6XnPopwCZ6odHVVqMsllL5,Within Temptation;Jacoby Shaddix,The Reckoning,Metal,Neutral,Medium,0.31,0.825,0.475,89.885,-4.53,0.004,251106,54
+7Md7IzzMCu8IgbZr5AJpoX,Y.V.E. 48,Fast Car,Electronic,Sad,Short,0.765,0.561,0.147,112.034,-8.946,0.08,157232,59
+4R4gOp9ybG85RqbrY7JELc,Syn Cole;MIYA MIYA,Feels Like Love (feat. MIYA MIYA),Electronic,Happy,Short,0.728,0.657,0.772,122.079,-5.329,0.07,169672,64
+3C7nmDDHszTddjFpdPlBvw,Bryan Adams,Merry Christmas,Rock,Neutral,Short,0.683,0.511,0.598,109.991,-5.598,0.406,151387,1
+1utD7AvgNfV5S5ssBHWO0U,Greensky Bluegrass,Do It Alone,Folk,Neutral,Medium,0.435,0.523,0.375,87.839,-13.241,0.636,271214,25
+5JvsxPAHsGxwNq4xto2HtM,Roxette,Listen To Your Heart,World,Neutral,Long,0.539,0.583,0.337,86.063,-4.935,0.108,328093,73
+05wIqM9biCDMC5QQHpc3ph,Giuseppe Verdi;Luciano Pavarotti;Dame Joan Sutherland;National Philharmonic Orchestra;Richard Bonynge,"La traviata / Act III: Parigi, o cara, noi lasceremo",Classical,Sad,Medium,0.251,0.125,0.076,89.471,-20.49,0.973,295973,21
+5Yxof5s4AdLjkCmkIfGDSV,Surra,No Lixo,Metal,Sad,Short,0.322,0.984,0.036,179.482,-6.852,0.022,52222,23
+2zGV8MKVGeTwfG3TF0OIWt,Los Chicanos,Puente de Piedra,Rock,Neutral,Medium,0.487,0.373,0.373,95.753,-10.22,0.795,221493,31
+2CkJwySsYnvpafrCeGcXik,Beto Diaz,Una Mujer Enamorada,Rock,Neutral,Medium,0.517,0.445,0.514,103.174,-9.591,0.06,188128,31
+4hQguvzuoDWY5SxE5Dhete,Pink Sweat$;6LACK,Midnight River,Soul,Sad,Medium,0.497,0.351,0.234,171.719,-9.048,0.777,184771,0
+7oq30Ybi655pwJpXvU8LsE,The Platters,All I Want For Christmas Is My Two Front Teeth,Hip-Hop,Neutral,Short,0.693,0.338,0.583,79.443,-6.372,0.752,131973,0
+1vJKGim3Nva6XjOtanpXQA,Karen Marie Garrett;Nancy Rumble;Emil Miland,"Deschutes River Sunrise (Oboe, Cello, Piano) [feat. Nancy Rumble & Emil Miland]",Classical,Sad,Long,0.172,0.155,0.095,112.558,-17.506,0.842,304733,20
+28zGTndSQj4JT9nCPHRoTV,Achu,"Pondattee - From ""Golisoda 2""",Pop,Happy,Medium,0.692,0.624,0.759,169.999,-7.942,0.295,250396,59
+0FD91h1mV84cth3pbis442,Inner City,Vibes,Electronic,Sad,Medium,0.7,0.405,0.14,106.102,-14.78,0.003,224200,6
+1yXjm9VGSNBywbiZRBgGxi,Wolfgang Amadeus Mozart;Academy of Ancient Music;Christopher Hogwood,"Symphony No. 48 in D, K.120: 2. Andante grazioso",Classical,Sad,Short,0.142,0.1,0.278,83.817,-22.422,0.95,94080,7
+6xpQMq4xTYKJp1mxdCIOvT,Rae & Christian;The Pharcyde,Let It Go (feat. The Pharcyde) - Regrind 09,Hip-Hop,Neutral,Medium,0.791,0.735,0.652,92.013,-6.672,0.085,199568,52
+7BeG6ZN9NHfsp5UFMGgIo6,Chronic Law,Still Living,World,Neutral,Medium,0.55,0.601,0.4,99.452,-6.564,0.715,192376,26
+2G8nwxfJFxk0iM7M7Nzzlu,Lefty Frizzell,"Give Me More, More, More (Of Your Kisses)",Country,Happy,Short,0.519,0.397,0.861,198.353,-10.737,0.83,140133,13
+43aktSsHN3Pgu0dzw3BS5W,Dyro;Conro,Memory Bank,Electronic,Neutral,Short,0.687,0.588,0.407,114.874,-8.861,0.001,159788,55
+6OGprSlBEKH6PLZKYDhkGe,Heaven Shall Burn,Critical Mass,Metal,Sad,Medium,0.285,0.991,0.182,198.313,-4.248,0.0,215521,22
+1BtrF1pl4fAcYBOoQFznYU,Pr. Lucas,Me Ensina a Ser Grato - Incidental Grato a Ti,Soul,Neutral,Medium,0.307,0.49,0.448,110.506,-7.861,0.428,285720,41
+1qtOncyVGwrltAsTWFuW6m,The Drifters,White Christmas,Hip-Hop,Neutral,Short,0.578,0.182,0.477,127.363,-10.424,0.825,158533,0
+4gcTWm58MmrRDhPjyLZRIj,Stevie Wonder,Superstition,Soul,Happy,Medium,0.611,0.583,0.877,100.82,-14.182,0.057,267733,0
+1DXN9BShkC5oCnliOmdTFb,Bryce Fox;StayLoose,Horns (StayLoose Remix),Jazz,Neutral,Medium,0.324,0.887,0.429,159.303,-3.267,0.073,204000,50
+2ZkQDs0kJlNJzdnVgi2j52,Dirtyphonics;Ecraze;Evilnoiz,Pantheon - Evilnoiz Remix,Electronic,Sad,Medium,0.48,0.979,0.18,144.774,0.006,0.085,254896,36
+0jDjl6u73NHr2WhzoeEwQ3,Los Pasteles Verdes,Mi Amor Imposible,Hip-Hop,Happy,Medium,0.55,0.698,0.687,138.254,-6.743,0.409,222668,45
+0HuS5vFQd06cXV54I0twkV,Prateek Kuhad,Face,Folk,Neutral,Medium,0.481,0.669,0.351,128.219,-13.329,0.92,184413,38
+0yR2XR7Ufx0aDXifmE4UFJ,Tubeway Army,Human Sacrifice,Pop,Neutral,Medium,0.653,0.875,0.377,116.642,-8.129,0.064,228760,0
+4gEDWJKX2Lykhu6CtMA4O2,Hadi Bastani,DARKDARKNIGHT,World,Sad,Long,0.114,0.009,0.047,48.296,-26.63,0.555,721801,0
+1eOwvm4RZ297KoPs8E1ZDj,Blue Moon Rising,Papaw Taught Me,Folk,Happy,Short,0.647,0.729,0.925,111.764,-7.56,0.307,139093,19
+12bBG2L6kHEzHANNaXNMHN,XTC,Jason And The Argonauts - 2001 Remaster,Pop,Neutral,Long,0.582,0.795,0.594,139.658,-10.188,0.005,367066,26
+03b9EWz24mTfDvnrE8G41I,Stephan Moccio,Whitby,Classical,Sad,Medium,0.21,0.022,0.252,166.662,-28.528,0.991,195240,45
+0V9vSWEA68zl8AFxewA1Gm,Napalm Death,Shattered Existence,Metal,Sad,Medium,0.266,0.995,0.127,94.052,-4.392,0.0,191066,12
+4n34zqoN6lSHqifMDAM4uU,Nusrat Fateh Ali Khan,Akhiyan Udeekdiyan,Folk,Happy,Long,0.533,0.881,0.793,117.028,-4.163,0.447,978164,39
+7aPJaxQb4zNYVcFZtBkVhJ,After Forever,Estranged (A Timeless Spell),Metal,Neutral,Long,0.363,0.915,0.351,123.841,-7.165,0.005,414669,22
+3A5GWLRz25wpL8yx4vf0sq,No Doubt,It's My Life,Rock,Happy,Medium,0.606,0.75,0.771,126.316,-4.535,0.003,225866,1
+5LdFryY9gC2s1kSbrFlRnf,Hank Williams;Drifting Cowboys,Half As Much,Country,Neutral,Short,0.66,0.327,0.45,126.847,-10.069,0.899,162933,20
+0UY4FvG4f9JI6kBR1BlWrZ,Paramore,That's What You Get,Rock,Neutral,Medium,0.528,0.831,0.632,131.094,-3.607,0.0,220480,68
+4OGn0e78ezPoLBGgVMPNtH,Brett Eldredge,Holy Water,Country,Sad,Short,0.519,0.363,0.211,95.275,-8.238,0.317,164426,0
+2uoWHninMACac1KBFn8rXQ,Said The Sky;Claire Ridgely,Show & Tell,World,Neutral,Medium,0.667,0.86,0.463,150.111,-3.74,0.235,185600,51
+03tp1TUFVJRt1HuWGlpRy8,Sonic Journey,No More Tears,World,Neutral,Short,0.65,0.632,0.352,97.046,-8.374,0.388,167014,46
+3rrgneYIM5KKZTM28CCZqs,Duke Dumont,Ocean Drive,Electronic,Neutral,Medium,0.67,0.776,0.624,115.034,-4.091,0.004,206320,0
+7thLVTvGXOpJcMEmQPNxU8,Little Big Town,Day Drinking,Country,Happy,Short,0.591,0.959,0.86,163.883,-2.515,0.103,178840,0
+1s7oKuT7720tOM0JSshbMv,1788-L;TYNAN,A B Y S S,Electronic,Sad,Medium,0.393,0.938,0.102,177.055,-5.819,0.005,212893,35
+3yV2E0ioIyFbaYsERldacn,Carlos Gardel,Me Da Pena Confesarlo,Latin,Neutral,Short,0.714,0.256,0.642,121.485,-11.366,0.988,153680,19
+0Y8fbluovKLcqInFvrxhMJ,The Aquabats!,Red Sweater!,World,Neutral,Medium,0.542,0.943,0.549,103.154,-4.824,0.1,204026,32
+4Ix1tLTlUuKpRFivN7CS8Q,Arc North;Krista Marina,Meant To Be,Electronic,Sad,Medium,0.371,0.594,0.234,104.215,-5.908,0.087,208352,54
+25MPTnqXQB1H6OkwSYUXWx,Ved Sharma,"Malang (Title Track) [From ""Malang - Unleash The Madness""]",Pop,Sad,Medium,0.384,0.728,0.311,156.396,-6.503,0.329,287374,66
+05eNEozACh10Rn0ewFnH8Y,Bill Haley & His Comets,"See You Later, Alligator",Rock,Happy,Short,0.663,0.758,0.814,157.198,-10.07,0.272,166840,54
+6lxKLjWjADsC3BAhi3228I,Mike Teardrop Trio,Honky Tonk Hardwood Floor,Rock,Happy,Short,0.734,0.931,0.966,92.182,-5.733,0.597,132649,22
+79dawNsHM3DBoGwkzeMeXf,Criolo,Duas de Cinco,World,Neutral,Medium,0.658,0.718,0.514,80.112,-8.128,0.045,224880,20
+7i8me6jJ0iAWHeOwdImXFT,Thakara,Puttu Paattu,World,Sad,Long,0.574,0.652,0.249,90.006,-8.757,0.478,332038,46
+3msS7xaelR4Oa0n7IwHkgF,Cold War Kids;Bishop Briggs,So Tied Up,Jazz,Happy,Medium,0.587,0.894,0.81,104.993,-4.184,0.031,189506,58
+5lxpBuanJ9xFsB7Yv6RNuH,Kevi Jonny,Live,Latin,Happy,Short,0.808,0.658,0.859,128.067,-3.706,0.819,167804,43
+5hy7nPUIveNGkYEesMv0Is,Robert Earl Keen,Cowboys Don't Cry,Country,Neutral,Medium,0.681,0.564,0.42,88.951,-6.692,0.42,189657,40
+34udfDpMhPKGji6QeMNjcK,The Souljazz Orchestra,Agbara,World,Happy,Long,0.683,0.923,0.892,120.004,-6.454,0.204,301986,16
+48Nuz6lmRorlF0C9JLLX44,The Troops of Doom,Far From Your God,Metal,Sad,Long,0.199,0.945,0.298,140.08,-5.972,0.0,305000,21
+19DWatOM5AhRdh9heZojpo,Cyclo;Tefa,Solo por una vez,Latin,Neutral,Medium,0.56,0.667,0.485,174.074,-7.877,0.218,216000,28
+74Oym97rxi071QbQrOruzH,Chris Cornell,Before We Disappear,Rock,Sad,Medium,0.399,0.673,0.326,147.349,-5.635,0.213,229680,53
+1kLXoAje5Z4mlZOAFgZZj3,Opeth,The Drapery Falls,Metal,Sad,Long,0.103,0.859,0.306,186.415,-6.107,0.0,652040,43
+6aWrQuLEvVxUUKQQLxGwc9,Adema,Promises,Rock,Neutral,Medium,0.444,0.86,0.421,156.142,-4.151,0.004,256333,29
+48mJX8glOrQkrSdVBjc0Wb,PJ Harvey,Down By The Water,Rock,Sad,Medium,0.623,0.622,0.319,125.166,-12.255,0.002,194506,57
+1pWnxqaHgd6Ql3zhcVATWd,The Coasters,Shoppin' for Clothes,Jazz,Neutral,Short,0.613,0.229,0.578,85.854,-14.887,0.683,178880,0
+3PUln07oXes6xzvFFBnPO1,Watchhouse,New Star,Folk,Neutral,Medium,0.683,0.488,0.424,113.387,-8.733,0.605,185728,56
+5seeG2750txXp0njvDZ2p2,SarrSew,"Last Body Standing, Falls",World,Sad,Medium,0.203,0.374,0.038,154.152,-11.482,0.754,213000,1
+0ACDXN4BKIWUK4b3DlFmbk,NMB48,Don't look back!,World,Neutral,Medium,0.485,0.971,0.531,92.499,-1.943,0.112,264600,20
+6zN6wjHO3ALVCIQQhSqqqN,Chris Tomlin;Thomas Rhett;Florida Georgia Line,Thank You Lord (feat.Thomas Rhett & Florida Georgia Line),World,Happy,Short,0.667,0.881,0.711,104.968,-3.366,0.35,168842,51
+5TkcqSPQhMdyC5gD6PgbBf,For Today,Redemption,Metal,Sad,Medium,0.241,0.96,0.12,80.543,-5.284,0.0,234253,22
+0cbxWALkcqpqSpxsXNftCC,Dean Martin,Let It Snow! Let It Snow! Let It Snow!,Jazz,Happy,Short,0.462,0.209,0.765,133.988,-15.251,0.9,121026,0
+1UBQ5GK8JaQjm5VbkBZY66,ZZ Top,Sharp Dressed Man - 2008 Remaster,Jazz,Neutral,Medium,0.601,0.859,0.446,125.145,-5.263,0.0,258026,73
+2uLx3Gka9TGCz9Zgu7Uwav,Thin Lizzy;Derek Varnals,Whiskey In The Jar,Jazz,Happy,Long,0.557,0.693,0.747,127.531,-11.044,0.531,345186,64
+1Z0esWJL3djasqLvwTMYA8,Jeff Mills,Canis Major Overdensity,Electronic,Sad,Long,0.493,0.884,0.154,126.348,-8.128,0.22,461840,10
+2xN6A2Ru5r7gOL8ECeSExi,Blitz,Mais Uma De Amor (Geme Geme),Hip-Hop,Happy,Medium,0.391,0.792,0.759,170.481,-8.774,0.388,229715,44
+2ItcXDhy50UlwefhTADM2k,Jahvillani;Countree Hype,Rockefeller,World,Neutral,Medium,0.904,0.688,0.646,97.972,-7.44,0.218,182366,0
+0SmPsv1s7yZmANEZ9r7Rq3,Thievery Corporation,One,Hip-Hop,Sad,Medium,0.683,0.5,0.213,95.999,-14.234,0.114,292960,20
+4iaut2RZl7gn6hkipwSW1j,Ingrid Andress,Christmas Always Finds Me,Country,Neutral,Medium,0.386,0.124,0.46,94.166,-9.736,0.928,200662,0
+6foTHpiI4hKJCnI01plyXu,Roberto Goyeneche,De Barro (En Directo),Latin,Happy,Medium,0.47,0.596,0.68,121.491,-9.278,0.867,184505,19
+3ZaTTeOT3K820yThVN6zHi,Nusrat Fateh Ali Khan;A1Melodymaster,Mere Rashke Qamar,Folk,Neutral,Medium,0.654,0.85,0.532,104.859,-4.568,0.038,293944,45
+4UapIunqXK3g1HUygS3Zz0,Louis Armstrong,A Kiss To Build A Dream On - Single Version,Jazz,Neutral,Medium,0.688,0.166,0.336,88.325,-8.731,0.819,182306,0
+3lUOzabhWYyRImRszpJGOU,Vaundy,CHAINSAW BLOOD,Pop,Neutral,Medium,0.528,0.855,0.549,146.987,-5.229,0.0,200997,74
+0akM7cwQ5xLQIIlTeWzubk,The Summer Set,Boomerang,Classical,Happy,Medium,0.646,0.926,0.797,93.998,-2.531,0.045,209732,56
+3RjtopVQCbo5HxuJs12J9q,Lime,Come and Get Your Love - Remix Radio Edit,Electronic,Happy,Medium,0.741,0.763,0.931,131.853,-10.995,0.074,234733,33
+5aydqaKSzdsbib2g0ZFgAL,Bill Emerson,Home Sweet Home,Folk,Happy,Short,0.461,0.634,0.962,127.129,-12.746,0.737,160720,22
+4IlAL320WUMFBHU0mf9H2y,Nicola Conte,Wanin' Moon,Hip-Hop,Neutral,Medium,0.384,0.588,0.509,180.162,-8.465,0.751,296226,24
+2pd1Lm8Jsslf2VdWQv0Je8,Lamb of God,Hourglass,Soul,Sad,Medium,0.347,0.982,0.146,115.64,-3.399,0.002,240183,55
+6RDMoC2vd1dlVvTzYbCOUU,Dean Martin,Let It Snow! Let It Snow! Let It Snow!,Jazz,Happy,Short,0.484,0.332,0.683,134.999,-10.312,0.787,115240,0
+6TRgCcErnco2Wku1BqtWF9,Strapping Young Lad,Antiproduct,Metal,Sad,Medium,0.435,0.981,0.305,97.401,-4.118,0.0,236106,23
+4jZHeAug66KEXw7KZbOX43,Michael W. Smith,Sovereign Over Us,World,Sad,Long,0.453,0.496,0.158,135.934,-6.816,0.063,354280,40
+048KE72zqhDQpy7V7YOyRb,Painel de Controle,Outra Vez,Latin,Happy,Medium,0.644,0.736,0.733,104.374,-9.779,0.277,246200,39
+6CyaJL0LzdUh5h4PixtCFl,Inner City;Steffanie Christi'an,Need Your Love,Electronic,Neutral,Medium,0.707,0.88,0.424,123.002,-4.459,0.004,190294,11
+13yf6g8rRnV1HEBbQYgi0T,Teenage Bottlerocket,Fatso Goes Nutzoid,Pop,Neutral,Short,0.25,0.982,0.561,195.276,-3.862,0.0,99773,22
+6iUGnSHReCwgHA00XVKPPe,Owl City,Peppermint Winter,Pop,Sad,Medium,0.451,0.803,0.145,153.95,-4.932,0.208,240560,0
+3g0mEQx3NTanacLseoP0Gw,The Chainsmokers;ILLENIUM;Lennon Stella,Takeaway,Electronic,Neutral,Medium,0.528,0.511,0.351,100.1,-8.144,0.126,209880,75
+1cD31MPvW9vkbpX8tA9agU,Marvin Santiago,Fuego A La Jicotea,Latin,Happy,Medium,0.841,0.853,0.964,103.607,-2.131,0.424,203520,0
+3OXROWJMe1a27BJ4d9CTfN,Arno,One Night With You,Jazz,Neutral,Medium,0.459,0.591,0.489,79.951,-7.314,0.06,234866,35
+758xnnA8eJuiiVkGCOuNZK,Alberto Barros;Colombianas Salsa All Star,Ya Te Olvide,Latin,Happy,Medium,0.717,0.619,0.756,93.048,-7.924,0.473,243387,28
+3h2JRCgyhaYnFXDayKFrbH,Alison Krauss & Union Station,"We Hide & Seek - Live From The Louisville Palace, Kentucky / 2002",Folk,Neutral,Long,0.362,0.761,0.398,135.318,-8.384,0.356,341053,22
+6hqXjngqrBWFfsD3rREM9C,Aaron Smith;Malik Hart,Don't You Know - Live Bass Mix,Electronic,Neutral,Long,0.71,0.77,0.462,129.025,-4.839,0.181,513953,24
+67KjsCLpDr58dYZpck8JsL,Vision Video,Pictures of You,Metal,Neutral,Long,0.475,0.95,0.644,87.428,-3.847,0.004,396970,23
+4FytmtwjnW4GdycPb4TwF0,Boyce Avenue,Perfect,Folk,Neutral,Medium,0.631,0.29,0.398,96.593,-9.159,0.857,257390,47
+6Y43X2EwtS8CZlDH1xtBdo,Archive,Finding It So Hard,Hip-Hop,Sad,Long,0.332,0.737,0.114,154.014,-8.767,0.001,933266,17
+3MOhipHFUkGpS0rV7cKrJO,Bonobo,Rosewood,Hip-Hop,Neutral,Medium,0.757,0.637,0.429,121.009,-9.451,0.067,242773,50
+3ZPrcLz9peBVWyYZHwx0DI,Daddy Yankee,Dura,Hip-Hop,Happy,Medium,0.783,0.84,0.838,95.002,-3.416,0.174,200480,3
+3D5m9td727oNdjUh8EmVVg,Banda Los Recoditos,No Te Quiero Perder,Hip-Hop,Happy,Medium,0.697,0.399,0.916,140.105,-6.013,0.611,208320,0
+3yfcFF3WjEBFIMgW8Z04SU,Atria,Shelter,World,Sad,Medium,0.523,0.899,0.296,129.989,-4.557,0.0,206500,0
+5lNsWVHFmthAxTw3IwetrD,Mariano Barba,Y Nos Dieron Las Diez,Hip-Hop,Happy,Long,0.566,0.518,0.923,155.711,-6.892,0.779,368506,45
+2stkLJ0JNcXkIRDNF3ld6c,Randy Newman,"You've Got a Friend in Me - From ""Toy Story""/Soundtrack Version",Folk,Neutral,Short,0.689,0.333,0.471,115.835,-12.134,0.817,124160,70
+1eUrfmvVOuy7RsS11Kz74Q,Toxic Holocaust,"Feedback, Blood & Distortion",Metal,Neutral,Medium,0.26,0.994,0.36,145.913,-5.291,0.0,206973,22
+3CA3wAOZ7U3nt96W2QKtFp,DJ Vadim;Kathrin deBoer,Black Is the Night,Hip-Hop,Happy,Medium,0.882,0.661,0.689,94.009,-5.14,0.006,258320,51
+6RwSREtb8zda5Xj8XvUyu7,Matheus & Kauan,Cacos - Ao Vivo,Latin,Neutral,Short,0.494,0.765,0.377,170.365,-4.798,0.173,167332,49
+0RKnsSlYHeSoEOpFTDEGQQ,Ray Price,One More Time,Country,Happy,Short,0.44,0.523,0.686,64.099,-7.483,0.863,165360,11
+7b4vbqgzMhbFa0wdjfftQJ,Calvin Harris;Dua Lipa;Oliver Heldens,One Kiss (with Dua Lipa) - Oliver Heldens Remix,Electronic,Sad,Medium,0.717,0.752,0.14,123.97,-6.933,0.251,281266,56
