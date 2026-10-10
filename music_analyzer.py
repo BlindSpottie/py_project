@@ -15,59 +15,59 @@ class MusicAnalyzer:
         ''' 
          initialize a  library. 
          :param library: contains a music library with the tracks to analyse. 
-         :Return None. 
+         :returns: None. 
         '''
         self.library = library
  
     def feature_ranges(self) -> dict[str, tuple[float, float]]:
         ''' 
-        Gets the minimum and the maximum values of the tracks
+        Gets the minimum and the maximum values of the tracks.
         :parameter none 
-        :returns a dictionarie with the maximum and minimum values and a empty dictionarie if there is no track.
+        :returns: a dictionarie with the maximum and minimum values and a empty dictionarie if there is no track.
         '''
-        ranges = {}
+        ranges: dict[str, tuple[float, float]] = {}
         if not self.library.tracks:
             return {}
             
-        energy_values = [track.energy for track in self.library.tracks]
-        minimum = min(energy_values)
-        maximum = max(energy_values)
+        energy_values: list[float]= [track.energy for track in self.library.tracks]
+        minimum:float = min(energy_values)
+        maximum:float = max(energy_values)
         ranges['energy'] = (minimum, maximum)
-        danceability_values = [track.danceability for track in self.library.tracks]
-        minimum = min(danceability_values)
-        maximum = max(danceability_values)
+        danceability_values: list[float] = [track.danceability for track in self.library.tracks]
+        minimum: float = min(danceability_values)
+        maximum: float= max(danceability_values)
         ranges['danceability'] = (minimum, maximum)
-        valence_value = [track.valence for track in self.library.tracks]
-        minimum = min(valence_value)
-        maximum = max(valence_value)
+        valence_value: list[float] = [track.valence for track in self.library.tracks]
+        minimum: float= min(valence_value)
+        maximum: float= max(valence_value)
         ranges['valence'] = (minimum, maximum)
-        tempo_values = [track.tempo for track in self.library.tracks]
-        minimum = min(tempo_values)
-        maximum = max(tempo_values)
+        tempo_values: list[float] = [track.tempo for track in self.library.tracks]
+        minimum: float = min(tempo_values)
+        maximum: float = max(tempo_values)
         ranges['tempo'] = (minimum, maximum)
-        loudness_values = [track.loudness for track in self.library.tracks]
-        minimum = min(loudness_values)
-        maximum = max(loudness_values)
+        loudness_values: list[float] = [track.loudness for track in self.library.tracks]
+        minimum: float = min(loudness_values)
+        maximum: float = max(loudness_values)
         ranges['loudness'] = (minimum, maximum)
-        acousticness_value = [track.acousticness for track in self.library.tracks]
-        minimum = min(acousticness_value)
-        maximum = max(acousticness_value)
+        acousticness_value: list[float] = [track.acousticness for track in self.library.tracks]
+        minimum: float= min(acousticness_value)
+        maximum: float= max(acousticness_value)
         ranges['acousticness'] = (minimum, maximum)
         return ranges 
  
     def normalized_features(self, track_id: str) -> dict[str, float]:
         ''' 
         Normailizes the values of the features.
-        :param track_id: is the track_id with the feature names that are normalized. 
-        :return: a dictionarie with as key the feature name and as value the normalized float. 
+        :param track_id: Is the track_id with the feature names that are normalized. 
+        :returns: A dictionarie with as key the feature name and as value the normalized float. 
         '''
         track = self.library.get_track(track_id)
         if track is None: 
             raise ValueError ('track not found')
 
-        features = track.audio_features()
-        ranges = self.feature_ranges()
-        normalized = {}
+        features: dict[str, float] = track.audio_features()
+        ranges: dict[str, tuple[float, float]] = self.feature_ranges()
+        normalized: dict[str, float] = {}
         for feature_name , value in features.items():
             minimum, maximum = ranges[feature_name]
             if minimum == maximum: 
@@ -83,19 +83,19 @@ class MusicAnalyzer:
     def distance(self, track_id_a: str, track_id_b: str) -> float:
         ''' 
         Determines the distance between the values of two tracks. 
-        :param: track_id_a: is the track id of track a. 
-        :param: track_id_b: is the track id of track b. 
+        :param track_id_a: Is the track id of track a. 
+        :param track_id_b: Is the track id of track b. 
         :returns: the distance with a float. 
         '''
         track_a = self.library.get_track(track_id_a)
         track_b = self.library.get_track(track_id_b)
         if track_a is None or track_b is None:
             raise ValueError ('track not found')
-        feature_a = self.normalized_features(track_id_a) 
-        feature_b = self.normalized_features(track_id_b)
-        distance = 0
+        feature_a: dict[str, float] = self.normalized_features(track_id_a) 
+        feature_b: dict[str, float] = self.normalized_features(track_id_b)
+        distance: float = 0
         for feature in feature_a: 
-             difference = feature_a[feature] - feature_b[feature]
+             difference: float = feature_a[feature] - feature_b[feature]
              distance += difference**2 
         return math.sqrt(distance)
 
@@ -105,26 +105,26 @@ class MusicAnalyzer:
  
     def recommend(self, track_id: str, k: int) -> list[tuple[str, float]]:
         ''' 
-        Recomends k numbers of tracks that are similar to the given track 
-        :param track_id: is the track id of the track where similar tracks are given for.
-        :param k: is the amount of similar tracks that are given. 
-        :returns: a list with a tuple with the track id and a number how similar the track is. 
+        Recomends k numbers of tracks that are similar to the given track.
+        :param track_id: Is the track id of the track where similar tracks are given for.
+        :param k: Is the amount of similar tracks that are given. 
+        :returns: A list with a tuple with the track id and a number how similar the track is. 
         '''
-        track  = self.get_track(track_id)
+        track  = self.library.get_track(track_id)
         if track is None: 
             raise ValueError ('track is not found')
         
         if k < 0: 
             raise ValueError ( 'K can not be less than zero')
-        recommendations = []
-        for start_track in self.tracks:
-            if start_track.id == track_id: 
+        recommendations: list[tuple[str, float]] = []
+        for start_track in self.library.tracks:
+            if start_track.track_id == track_id: 
                 continue 
-            distance = self.distance(start_track.id, track_id)
-            recommendations.append((start_track.id, distance))
-        recommendations = sorted(recommendations,key= lambda recommondation: recommondation[1])
+            distance = self.distance(start_track.track_id, track_id)
+            recommendations.append((start_track.track_id, distance))
+        recommendations = sorted(recommendations,key= lambda recommendation: (recommendation[1],recommendation[0]))
         recommendations = recommendations[:k]
-        rounded_recommendations = []
+        rounded_recommendations: list[tuple[str, float]] = []
         for start_track, distance in recommendations: 
             rounded_recommendations.append((start_track, round(distance,4)))
 
