@@ -39,6 +39,10 @@ class MusicLibrary:
         """
         return value.strip().lower().title()
 
+    def _space_to_underscore_(self, value:str) -> str:
+        """This function takes spaces and turns it into underscores"""
+        return value.lower().replace("-", " ").split().replace(" ","_")
+
     def _txt_to_float(self, value:str) -> float:
         number = float(value)
         if number != number or number in (float("inf"),float("-inf")): #first checks for nan (not a number), second checks for inf or -inf values (normally inf and -inf will not give error)
